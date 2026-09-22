@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "biomedical_sciences",
+  "front": "Define anatomical position.",
+  "back": "The body standing erect, facing forward, arms at the sides, palms facing forward, and feet slightly apart. It is the reference position used to describe all body locations and movements."
+ },
+ {
+  "id": 2,
+  "domain": "biomedical_sciences",
+  "front": "What is the difference between the terms proximal and distal?",
+  "back": "Proximal means closer to the point of attachment or the trunk of the body. Distal means farther away from that point of attachment or the trunk."
+ },
+ {
+  "id": 3,
+  "domain": "biomedical_sciences",
+  "front": "Identify the four primary tissue types in the human body.",
+  "back": "Epithelial tissue, connective tissue, muscle tissue, and nervous tissue. Every organ is built from combinations of these four types."
+ },
+ {
+  "id": 4,
+  "domain": "biomedical_sciences",
+  "front": "Define the combining form cardi/o.",
+  "back": "It refers to the heart. It is used in terms such as cardiomegaly (enlarged heart) and cardiologist (a physician who treats the heart)."
+ },
+ {
+  "id": 5,
+  "domain": "biomedical_sciences",
+  "front": "What does the suffix -itis mean in medical terminology?",
+  "back": "It means inflammation. For example, appendicitis is inflammation of the appendix and dermatitis is inflammation of the skin."
+ },
+ {
+  "id": 6,
+  "domain": "biomedical_sciences",
+  "front": "Break down the term hepatomegaly into its word parts and give the meaning.",
+  "back": "Hepat/o means liver and -megaly means enlargement. Hepatomegaly means an enlarged liver."
+ },
+ {
+  "id": 7,
+  "domain": "biomedical_sciences",
+  "front": "What is the function of the sinoatrial (SA) node?",
+  "back": "It is the heart's natural pacemaker, located in the right atrium. It initiates the electrical impulse that triggers each normal heartbeat."
+ },
+ {
+  "id": 8,
+  "domain": "biomedical_sciences",
+  "front": "Name the four chambers of the heart in the order blood flows through them from the body.",
+  "back": "Right atrium, right ventricle, left atrium, left ventricle. Deoxygenated blood enters the right side, travels to the lungs, then returns oxygenated blood to the left side for distribution to the body."
+ },
+ {
+  "id": 9,
+  "domain": "biomedical_sciences",
+  "front": "Define myocardial infarction.",
+  "back": "Death of heart muscle tissue caused by an interrupted blood supply, most often due to a blocked coronary artery. It is commonly known as a heart attack."
+ },
+ {
+  "id": 10,
+  "domain": "biomedical_sciences",
+  "front": "What structures make up the upper respiratory tract?",
+  "back": "The nose, nasal cavity, pharynx, and larynx. These structures warm, filter, and humidify air before it reaches the lower airway."
+ },
+ {
+  "id": 11,
+  "domain": "biomedical_sciences",
+  "front": "Define the term dyspnea.",
+  "back": "Difficult or labored breathing. It is a symptom rather than a disease and can result from many cardiac, pulmonary, or systemic conditions."
+ },
+ {
+  "id": 12,
+  "domain": "biomedical_sciences",
+  "front": "What is the pathophysiologic hallmark of chronic obstructive pulmonary disease (COPD)?",
+  "back": "Persistent airflow limitation caused by airway and alveolar abnormalities, usually from chronic bronchitis or emphysema, that makes exhaling air difficult."
+ },
+ {
+  "id": 13,
+  "domain": "biomedical_sciences",
+  "front": "Identify the combining form for the kidney and give one term that uses it.",
+  "back": "Nephr/o refers to the kidney. Nephrolithiasis, for example, means the presence of kidney stones."
+ },
+ {
+  "id": 14,
+  "domain": "biomedical_sciences",
+  "front": "Define glomerular filtration rate (GFR).",
+  "back": "A measure of how much blood the kidney's glomeruli filter per minute. It is the primary indicator used to assess overall kidney function."
+ },
+ {
+  "id": 15,
+  "domain": "biomedical_sciences",
+  "front": "What is the functional unit of the kidney called?",
+  "back": "The nephron. Each kidney contains roughly one million nephrons, and each filters blood plasma to form urine."
+ },
+ {
+  "id": 16,
+  "domain": "biomedical_sciences",
+  "front": "Distinguish between the terms -stomy and -tomy.",
+  "back": "The suffix -stomy means the surgical creation of an opening, as in colostomy. The suffix -tomy means an incision into an organ or structure, as in tracheotomy."
+ },
+ {
+  "id": 17,
+  "domain": "biomedical_sciences",
+  "front": "Define peristalsis.",
+  "back": "Wave-like involuntary contractions of smooth muscle that move food and waste through the gastrointestinal tract."
+ },
+ {
+  "id": 18,
+  "domain": "biomedical_sciences",
+  "front": "What organ produces bile and where is it stored?",
+  "back": "Bile is produced by the liver and stored and concentrated in the gallbladder until it is released into the duodenum to aid fat digestion."
+ },
+ {
+  "id": 19,
+  "domain": "biomedical_sciences",
+  "front": "Define cholelithiasis.",
+  "back": "The presence of one or more stones, called gallstones, in the gallbladder. Chol/e means bile or gall, lith/o means stone, and -iasis means abnormal condition."
+ },
+ {
+  "id": 20,
+  "domain": "biomedical_sciences",
+  "front": "What is the difference between exocrine and endocrine glands?",
+  "back": "Exocrine glands secrete substances through ducts onto a surface or into a cavity, such as sweat glands. Endocrine glands secrete hormones directly into the bloodstream, without ducts."
+ },
+ {
+  "id": 21,
+  "domain": "biomedical_sciences",
+  "front": "Name the gland often called the master gland and explain why.",
+  "back": "The pituitary gland, because it regulates the hormone output of most other endocrine glands in the body through signals from the hypothalamus."
+ },
+ {
+  "id": 22,
+  "domain": "biomedical_sciences",
+  "front": "Define the pathophysiology of type 1 diabetes mellitus.",
+  "back": "An autoimmune condition in which the pancreatic β cells that produce insulin are destroyed, resulting in little or no insulin production and chronic hyperglycemia."
+ },
+ {
+  "id": 23,
+  "domain": "biomedical_sciences",
+  "front": "How does type 2 diabetes mellitus differ from type 1 in its pathophysiology?",
+  "back": "Type 2 diabetes involves insulin resistance in body tissues combined with a relative insulin deficiency, rather than an autoimmune destruction of insulin-producing cells."
+ },
+ {
+  "id": 24,
+  "domain": "biomedical_sciences",
+  "front": "Define the combining form oste/o and give one example term.",
+  "back": "Oste/o means bone. Osteoporosis, for example, is a condition of decreased bone density that increases fracture risk."
+ },
+ {
+  "id": 25,
+  "domain": "biomedical_sciences",
+  "front": "What is the difference between a tendon and a ligament?",
+  "back": "A tendon connects muscle to bone. A ligament connects bone to bone, typically stabilizing a joint."
+ },
+ {
+  "id": 26,
+  "domain": "biomedical_sciences",
+  "front": "Define osteoarthritis and identify its primary pathologic feature.",
+  "back": "A degenerative joint disease characterized by progressive breakdown of articular cartilage, leading to pain, stiffness, and reduced joint mobility."
+ },
+ {
+  "id": 27,
+  "domain": "biomedical_sciences",
+  "front": "Identify the suffix -algia and give an example.",
+  "back": "The suffix -algia means pain. Arthralgia means joint pain, and myalgia means muscle pain."
+ },
+ {
+  "id": 28,
+  "domain": "biomedical_sciences",
+  "front": "What is the basic functional and structural unit of the nervous system?",
+  "back": "The neuron. It transmits electrical and chemical signals and consists of a cell body, dendrites, and an axon."
+ },
+ {
+  "id": 29,
+  "domain": "biomedical_sciences",
+  "front": "Differentiate between the central nervous system and the peripheral nervous system.",
+  "back": "The central nervous system consists of the brain and spinal cord. The peripheral nervous system consists of all the nerves branching out from the central nervous system to the rest of the body."
+ },
+ {
+  "id": 30,
+  "domain": "biomedical_sciences",
+  "front": "Define the pathophysiology of an ischemic stroke.",
+  "back": "A sudden interruption of blood flow to part of the brain, usually caused by a thrombus or embolus blocking a cerebral artery, leading to tissue hypoxia and neuronal death."
+ },
+ {
+  "id": 31,
+  "domain": "biomedical_sciences",
+  "front": "What does the combining form hem/o or hemat/o refer to?",
+  "back": "Blood. Hematology, for example, is the study of blood and blood-forming tissues."
+ },
+ {
+  "id": 32,
+  "domain": "biomedical_sciences",
+  "front": "Identify the three main types of blood cells and their primary functions.",
+  "back": "Erythrocytes (red blood cells) carry oxygen, leukocytes (white blood cells) fight infection, and thrombocytes (platelets) assist in blood clotting."
+ },
+ {
+  "id": 33,
+  "domain": "biomedical_sciences",
+  "front": "Define anemia.",
+  "back": "A condition marked by a deficiency of red blood cells or hemoglobin, resulting in reduced oxygen-carrying capacity of the blood."
+ },
+ {
+  "id": 34,
+  "domain": "biomedical_sciences",
+  "front": "What is the function of the lymphatic system?",
+  "back": "It drains excess interstitial fluid back into the bloodstream, transports dietary fats, and helps defend the body against infection through lymph nodes and lymphocytes."
+ },
+ {
+  "id": 35,
+  "domain": "biomedical_sciences",
+  "front": "Define the term immunocompromised.",
+  "back": "A state in which the immune system's ability to fight infection or disease is weakened, whether from illness, medication, or a congenital condition."
+ },
+ {
+  "id": 36,
+  "domain": "biomedical_sciences",
+  "front": "What is an antibody and where is it produced?",
+  "back": "A protein produced by B lymphocytes (plasma cells) that recognizes and binds to a specific antigen to help neutralize or mark it for destruction."
+ },
+ {
+  "id": 37,
+  "domain": "biomedical_sciences",
+  "front": "Break down the term dermatitis into its parts and give the meaning.",
+  "back": "Dermat/o means skin and -itis means inflammation. Dermatitis means inflammation of the skin."
+ },
+ {
+  "id": 38,
+  "domain": "biomedical_sciences",
+  "front": "Name the three main layers of the skin from outermost to innermost.",
+  "back": "Epidermis, dermis, and hypodermis (subcutaneous layer). The epidermis is the protective outer barrier, the dermis contains blood vessels and nerves, and the hypodermis contains fat for insulation."
+ },
+ {
+  "id": 39,
+  "domain": "biomedical_sciences",
+  "front": "Define a decubitus ulcer.",
+  "back": "A pressure sore that develops from prolonged, unrelieved pressure on the skin over a bony area, cutting off blood supply and causing tissue breakdown. Also called a pressure ulcer."
+ },
+ {
+  "id": 40,
+  "domain": "biomedical_sciences",
+  "front": "What structures compose the female reproductive system's primary organs?",
+  "back": "The ovaries, fallopian tubes, uterus, cervix, and vagina. The ovaries produce eggs and hormones, and the uterus supports pregnancy."
+ },
+ {
+  "id": 41,
+  "domain": "biomedical_sciences",
+  "front": "Define the combining form salping/o.",
+  "back": "It refers to the fallopian tube. Salpingectomy, for example, means surgical removal of a fallopian tube."
+ },
+ {
+  "id": 42,
+  "domain": "biomedical_sciences",
+  "front": "What is the function of the prostate gland?",
+  "back": "It produces a fluid that nourishes and transports sperm, forming part of semen. It surrounds the urethra just below the bladder in males."
+ },
+ {
+  "id": 43,
+  "domain": "biomedical_sciences",
+  "front": "Define the term -ectomy and give an example.",
+  "back": "The suffix -ectomy means surgical removal. Appendectomy means surgical removal of the appendix."
+ },
+ {
+  "id": 44,
+  "domain": "biomedical_sciences",
+  "front": "Distinguish the prefixes hyper- and hypo-.",
+  "back": "Hyper- means excessive or above normal, as in hypertension. Hypo- means deficient or below normal, as in hypoglycemia."
+ },
+ {
+  "id": 45,
+  "domain": "biomedical_sciences",
+  "front": "What is the pathophysiologic basis of hypertension?",
+  "back": "Chronically elevated arterial blood pressure caused by increased peripheral vascular resistance, increased cardiac output, or both, placing added strain on the heart and blood vessels."
+ },
+ {
+  "id": 46,
+  "domain": "biomedical_sciences",
+  "front": "Define pharmacokinetics.",
+  "back": "The study of how the body absorbs, distributes, metabolizes, and excretes a drug over time."
+ },
+ {
+  "id": 47,
+  "domain": "biomedical_sciences",
+  "front": "What is the difference between a drug's generic name and its trade name?",
+  "back": "The generic name identifies the drug's active chemical ingredient and is not owned by any single manufacturer. The trade name is the brand name a specific manufacturer assigns and markets."
+ },
+ {
+  "id": 48,
+  "domain": "biomedical_sciences",
+  "front": "Define the term contraindication in pharmacology.",
+  "back": "A specific condition or factor that makes a particular drug or treatment inadvisable because it could cause harm to the patient."
+ },
+ {
+  "id": 49,
+  "domain": "biomedical_sciences",
+  "front": "What class of drugs is used to lower blood pressure by blocking calcium entry into cardiac and smooth muscle cells?",
+  "back": "Calcium channel blockers. They relax blood vessel walls and can also reduce heart rate, easing the workload on the heart."
+ },
+ {
+  "id": 50,
+  "domain": "biomedical_sciences",
+  "front": "Define the term antipyretic and give an example.",
+  "back": "A drug that reduces fever. Acetaminophen is a common example used to lower elevated body temperature."
+ },
+ {
+  "id": 51,
+  "domain": "biomedical_sciences",
+  "front": "What laboratory test measures the average blood glucose level over the previous two to three months?",
+  "back": "Hemoglobin A1c (HbA1c). It reflects long-term glycemic control by measuring the percentage of hemoglobin that has glucose attached."
+ },
+ {
+  "id": 52,
+  "domain": "biomedical_sciences",
+  "front": "Define a complete blood count (CBC) and state what it measures.",
+  "back": "A common blood test that evaluates red blood cells, white blood cells, platelets, hemoglobin, and hematocrit to assess overall health and detect disorders such as anemia or infection."
+ },
+ {
+  "id": 53,
+  "domain": "biomedical_sciences",
+  "front": "What does the diagnostic term hematuria mean?",
+  "back": "The presence of blood in the urine. It can result from infection, kidney stones, trauma, or malignancy."
+ },
+ {
+  "id": 54,
+  "domain": "biomedical_sciences",
+  "front": "Define the imaging modality magnetic resonance imaging (MRI).",
+  "back": "A diagnostic imaging technique that uses a strong magnetic field and radio waves, rather than ionizing radiation, to produce detailed images of soft tissue, organs, and structures."
+ },
+ {
+  "id": 55,
+  "domain": "biomedical_sciences",
+  "front": "What is the purpose of a lipid panel?",
+  "back": "A blood test that measures total cholesterol, LDL cholesterol, HDL cholesterol, and triglycerides to assess cardiovascular disease risk."
+ },
+ {
+  "id": 56,
+  "domain": "biomedical_sciences",
+  "front": "Define the term biopsy.",
+  "back": "The removal of a small sample of tissue or cells from the body for microscopic examination, most often used to diagnose or rule out cancer."
+ },
+ {
+  "id": 57,
+  "domain": "biomedical_sciences",
+  "front": "What is the difference between benign and malignant neoplasms?",
+  "back": "A benign neoplasm grows slowly, remains localized, and does not invade surrounding tissue or metastasize. A malignant neoplasm grows uncontrollably, invades nearby tissue, and can spread to distant sites."
+ },
+ {
+  "id": 58,
+  "domain": "biomedical_sciences",
+  "front": "Define the combining form onc/o.",
+  "back": "It refers to tumor. Oncology is the branch of medicine dealing with the diagnosis and treatment of cancer."
+ },
+ {
+  "id": 59,
+  "domain": "biomedical_sciences",
+  "front": "What does the term sepsis mean?",
+  "back": "A life-threatening condition in which the body's systemic response to infection causes widespread inflammation, organ dysfunction, and potential circulatory collapse."
+ },
+ {
+  "id": 60,
+  "domain": "biomedical_sciences",
+  "front": "Define the suffix -pathy and give an example term.",
+  "back": "The suffix -pathy means disease. Cardiomyopathy, for example, refers to disease of the heart muscle."
+ },
+ {
+  "id": 61,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the legal health record?",
+  "back": "The formally defined subset of a patient's health information that a facility designates as its official business record for legal, disclosure, and evidentiary purposes. It differs from the complete health record, which may include working drafts and duplicate documents not part of the legal record."
+ },
+ {
+  "id": 62,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Who typically owns the physical health record, and who owns the information in it?",
+  "back": "The facility or custodian that created the record owns the physical or electronic record itself, while the patient has an ongoing interest and right of access to the information it contains, subject to provincial health information legislation."
+ },
+ {
+  "id": 63,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Define primary use of health information.",
+  "back": "Use of a patient's health record directly for delivering and managing that patient's own care, such as clinical decision making, care coordination, and communication among the treating team."
+ },
+ {
+  "id": 64,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Define secondary use of health information.",
+  "back": "Use of health data for purposes beyond direct patient care, such as research, health system planning, funding, quality improvement, and population health surveillance. CIHI's national databases are built from secondary use data."
+ },
+ {
+  "id": 65,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Name three documentation standards HIM professionals evaluate a health record against.",
+  "back": "Timeliness (entries made close to the time of care), authentication (entries signed or otherwise attributable to their author), and completeness (all required elements present, such as diagnoses, procedures, and discharge summary)."
+ },
+ {
+  "id": 66,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a documentation deficiency in the context of chart completion?",
+  "back": "A missing required element in the health record, such as an unsigned dictation, an absent discharge summary, or an operative note not completed within the facility's required timeframe."
+ },
+ {
+  "id": 67,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why must a coder never code from a diagnosis appearing only in a nursing note?",
+  "back": "Coding conventions require that a diagnosis be documented by a physician or other qualified practitioner with legal authority to diagnose; a nursing-only notation does not meet this threshold unless corroborated by the responsible provider."
+ },
+ {
+  "id": 68,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does ICD-10-CA stand for and who maintains it?",
+  "back": "The International Statistical Classification of Diseases and Related Health Problems, 10th Revision, Canada. It is a Canadian enhancement of the WHO's ICD-10, developed and maintained by CIHI for morbidity classification in Canada."
+ },
+ {
+  "id": 69,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "How does ICD-10-CA differ from the American ICD-10-CM?",
+  "back": "Both are national clinical modifications of WHO's ICD-10, but they were developed independently by different agencies (CIHI versus the U.S. CDC's National Center for Health Statistics, NCHS, which maintains ICD-10-CM), so their code sets, extensions, and conventions are not interchangeable."
+ },
+ {
+  "id": 70,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is CCI?",
+  "back": "The Canadian Classification of Health Interventions, Canada's national classification for coding procedures and interventions performed on patients, used alongside ICD-10-CA and maintained by CIHI."
+ },
+ {
+  "id": 71,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Is CCI equivalent to the American ICD-10-PCS?",
+  "back": "No. Both classify procedures, but CCI is a distinct Canadian classification with its own structure and conventions; it is not a translation of ICD-10-PCS."
+ },
+ {
+  "id": 72,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What are the two broad code families a Canadian inpatient coder assigns?",
+  "back": "ICD-10-CA diagnosis codes and CCI intervention codes, together forming the coded abstract submitted to CIHI's Discharge Abstract Database."
+ },
+ {
+  "id": 73,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the purpose of the Canadian Coding Standards published by CIHI?",
+  "back": "They provide the official national rules for applying ICD-10-CA and CCI consistently across facilities, supplementing the classification manuals themselves and resolving areas where the manuals alone are ambiguous."
+ },
+ {
+  "id": 74,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is an includes note in ICD-10-CA used for?",
+  "back": "It lists conditions or terms that are classified to a given code, clarifying the scope of that code's category without needing to list every synonym in the tabular entry itself."
+ },
+ {
+  "id": 75,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is an excludes note in ICD-10-CA used for?",
+  "back": "It directs the coder away from a code, indicating that a condition is classified elsewhere; ICD-10-CA distinguishes excludes notes that mean mutually exclusive conditions from those that simply point to another applicable code."
+ },
+ {
+  "id": 76,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does the instruction 'code also' mean in the tabular list?",
+  "back": "It signals that two codes are needed together to fully capture the condition or its underlying cause, such as coding both a manifestation and its etiology, or an intervention alongside the condition it treats."
+ },
+ {
+  "id": 77,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the difference between a dagger code and an asterisk code?",
+  "back": "A dagger code identifies the underlying etiology of a condition, and its paired asterisk code identifies the manifestation in a specific body system; both are required together to fully describe the clinical picture, with the dagger sequenced first."
+ },
+ {
+  "id": 78,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is MRDx?",
+  "back": "The Most Responsible Diagnosis, the single diagnosis or condition considered by the coder, using the entire health record, to be most responsible for the patient's length of stay and resource use during that episode of care."
+ },
+ {
+  "id": 79,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Is the MRDx always the admitting diagnosis?",
+  "back": "No. The MRDx is determined after the full episode of care is reviewed and may differ from the admitting diagnosis if the working diagnosis changed, a complication arose, or a different condition drove the majority of care."
+ },
+ {
+  "id": 80,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does 'diagnosis typing' mean in Canadian abstracting?",
+  "back": "Assigning a diagnosis type code (such as type 1 for MRDx, type 2 for comorbidities present pre-admission, type 3 for a post-admission complication) that describes the clinical and timing significance of each coded diagnosis on the abstract."
+ },
+ {
+  "id": 81,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a Type 1 diagnosis on a CIHI abstract?",
+  "back": "The Most Responsible Diagnosis (MRDx), the condition or problem chiefly responsible for the patient's stay after the entire encounter has been reviewed."
+ },
+ {
+  "id": 82,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a Type 2 diagnosis on a CIHI abstract?",
+  "back": "A comorbid condition that was present at admission and that affects patient management, such as by requiring additional monitoring, treatment, or increased length of stay."
+ },
+ {
+  "id": 83,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a Type 3 diagnosis on a CIHI abstract?",
+  "back": "A condition that arose after admission, meaning a complication or new diagnosis that developed during the course of the hospital stay rather than being present on arrival."
+ },
+ {
+  "id": 84,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why does diagnosis typing matter for case mix and funding?",
+  "back": "Diagnosis type affects whether a condition is treated as a significant comorbidity in the CMG+ grouping methodology, which in turn influences the resource intensity weight and the funding or benchmarking associated with the case."
+ },
+ {
+  "id": 85,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the DAD?",
+  "back": "The Discharge Abstract Database, CIHI's national database that collects demographic, administrative, and clinical (ICD-10-CA and CCI coded) information on hospital discharges, primarily for acute inpatient care."
+ },
+ {
+  "id": 86,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is NACRS?",
+  "back": "The National Ambulatory Care Reporting System, CIHI's national database that captures data on hospital-based ambulatory care, including emergency department visits, day surgery, and outpatient clinic encounters."
+ },
+ {
+  "id": 87,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the key difference in scope between the DAD and NACRS?",
+  "back": "The DAD collects data on inpatient hospital discharges (and in some provinces, day surgery), while NACRS focuses on ambulatory and emergency care encounters that do not typically involve an overnight admission."
+ },
+ {
+  "id": 88,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Which provinces and territories submit data to the DAD?",
+  "back": "All Canadian provinces and territories submit acute inpatient data to the DAD, though Quebec submits only limited elements since it maintains its own separate hospitalization data system (Med-Echo)."
+ },
+ {
+  "id": 89,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What kind of data does NACRS capture for an emergency department visit?",
+  "back": "Registration information, triage acuity, diagnoses and interventions coded in ICD-10-CA and CCI, length of stay in the department, and disposition, such as discharge home, admission, or transfer."
+ },
+ {
+  "id": 90,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is CMG+?",
+  "back": "Case Mix Groups Plus, CIHI's inpatient acute-care case mix methodology that groups discharge abstracts into clinically and resource-similar categories using the coded diagnoses and interventions."
+ },
+ {
+  "id": 91,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the purpose of grouping a case into a CMG+ category?",
+  "back": "To classify patients with similar clinical characteristics and expected resource consumption into the same group, enabling hospitals and funders to compare, benchmark, and fund care on a standardized basis."
+ },
+ {
+  "id": 92,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a Resource Intensity Weight (RIW)?",
+  "back": "A relative value assigned to a CMG+ case that reflects the expected resource consumption of that case compared to an average case, used for costing, benchmarking, and in some jurisdictions, funding allocation."
+ },
+ {
+  "id": 93,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What coded data elements primarily drive CMG+ assignment?",
+  "back": "The Most Responsible Diagnosis, significant comorbidities and complications (diagnosis type), the interventions performed, and patient demographic factors such as age, which together determine the assigned group and its expected resource use."
+ },
+ {
+  "id": 94,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "How can a coder's diagnosis typing decision affect an RIW?",
+  "back": "If a Type 2 comorbidity is coded when it did not truly affect management, or omitted when it did, the case may group differently under CMG+, changing the assigned resource intensity weight and the resulting funding or benchmarking signal."
+ },
+ {
+  "id": 95,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a physician query in the coding process?",
+  "back": "A formal communication from a coder to the responsible physician or provider seeking clarification when documentation is ambiguous, conflicting, or incomplete, so the coder can assign an accurate and supportable code."
+ },
+ {
+  "id": 96,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Give an example of a situation that should prompt a physician query.",
+  "back": "A discharge summary lists a condition that is not mentioned anywhere else in the record and has no supporting clinical evidence, such as treatment, monitoring, or diagnostic workup, documented for it."
+ },
+ {
+  "id": 97,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the key rule for how a physician query must be worded?",
+  "back": "It must be open-ended and non-leading, presenting relevant clinical indicators and asking the physician to clarify or confirm a diagnosis without suggesting a specific answer the coder wants documented."
+ },
+ {
+  "id": 98,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is coding quality auditing performed?",
+  "back": "To measure the accuracy, consistency, and completeness of coded abstracts against source documentation and national standards, identifying systematic errors, training needs, and risks to data integrity used for funding and planning."
+ },
+ {
+  "id": 99,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a coding error of omission?",
+  "back": "An error where a code that should have been assigned based on documented and supported clinical information was left off the abstract, understating the patient's true clinical picture or resource use."
+ },
+ {
+  "id": 100,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a coding error of commission?",
+  "back": "An error where a code was assigned that is not actually supported by the documentation, such as coding a condition that was only ruled out, only suspected, or never confirmed by the responsible provider."
+ },
+ {
+  "id": 101,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is upcoding?",
+  "back": "The practice, whether intentional or not, of assigning a code or diagnosis type that results in a higher resource intensity weight or reimbursement than the documented clinical picture actually supports."
+ },
+ {
+  "id": 102,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the general rule for coding a 'rule out' or 'suspected' diagnosis in acute inpatient coding under ICD-10-CA?",
+  "back": "Unlike outpatient coding conventions in some systems, ICD-10-CA acute inpatient coding standards permit coding of a diagnosis still described as suspected or probable at discharge if it remains the working diagnosis guiding treatment, since no further workup will occur post-discharge."
+ },
+ {
+  "id": 103,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a combination code in ICD-10-CA?",
+  "back": "A single code that classifies two diagnoses together, or a diagnosis together with an associated manifestation or complication, avoiding the need to assign two separate codes for that documented relationship."
+ },
+ {
+  "id": 104,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does the abbreviation NEC mean in a classification code title?",
+  "back": "Not Elsewhere Classified, meaning the specific condition is not represented by a more precise code elsewhere in the classification, so this less specific code is used despite the condition having a named diagnosis."
+ },
+ {
+  "id": 105,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does the abbreviation NOS mean in a classification code title?",
+  "back": "Not Otherwise Specified, meaning the documentation does not provide enough detail to assign a more specific code, so the coder uses the unspecified code available in that category."
+ },
+ {
+  "id": 106,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the difference in coder approach between NEC and NOS?",
+  "back": "NEC reflects a limitation in the classification system itself, since no more specific code exists even though the diagnosis is well documented. NOS reflects a limitation in the documentation, since a more specific code likely exists but was not supported by the record."
+ },
+ {
+  "id": 107,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is sequencing in the context of coding a discharge abstract?",
+  "back": "The order in which coded diagnoses are listed on the abstract, governed by diagnosis typing rules; the MRDx is sequenced first as Type 1, followed by comorbidities and other diagnoses in the order specified by national standards."
+ },
+ {
+  "id": 108,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the purpose of the alphabetic index in ICD-10-CA and CCI?",
+  "back": "It allows a coder to locate a term or diagnosis by its lead term and cross-references, directing the coder to a candidate code in the tabular list, which must always be verified there before final assignment."
+ },
+ {
+  "id": 109,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why should a coder never assign a code directly from the alphabetic index alone?",
+  "back": "The alphabetic index does not display the full instructional notes, includes and excludes terms, or fourth and fifth character requirements found only in the tabular list, so the tabular list must always be consulted before finalizing a code."
+ },
+ {
+  "id": 110,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does a 'code first' instruction mean in the tabular list?",
+  "back": "It directs the coder to sequence a specified underlying condition or cause code ahead of the code carrying the instruction, ensuring the etiology is captured before the code that depends on it."
+ },
+ {
+  "id": 111,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the health information continuum?",
+  "back": "The lifecycle of health information from creation and documentation, through storage, use, and disclosure, to eventual retention or secure destruction, spanning both primary care delivery and secondary uses like research and planning."
+ },
+ {
+  "id": 112,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is data quality described using the dimensions accuracy, timeliness, comparability, usability, relevance, and completeness?",
+  "back": "These are the recognized dimensions CIHI and HIM professionals use to evaluate whether coded and abstracted data can be trusted for its intended secondary uses, since a weakness in any dimension undermines confidence in analyses built on that data."
+ },
+ {
+  "id": 113,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is comparability as a data quality dimension?",
+  "back": "The degree to which data collected across different time periods, facilities, or jurisdictions is consistent enough in definition and coding practice to be meaningfully compared, which depends heavily on adherence to standardized classifications like ICD-10-CA and CCI."
+ },
+ {
+  "id": 114,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What abstracting element identifies the responsible health care provider who most directed the patient's care in an encounter?",
+  "back": "The Most Responsible Provider (MRP) field on the abstract, distinct from the MRDx, which identifies the physician or practitioner accountable for directing the patient's overall care during the stay."
+ },
+ {
+  "id": 115,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a significant intervention for CCI coding purposes?",
+  "back": "A therapeutic, diagnostic, or investigative procedure performed on a patient that carries enough clinical or resource significance to warrant a distinct CCI code, as opposed to a minor bedside procedure not separately coded."
+ },
+ {
+  "id": 116,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What are the main attribute categories used to build a CCI code?",
+  "back": "CCI codes are built from a section, an anatomic site, an intervention type (such as excision, repair, or imaging), and further attributes and extensions that add specificity to the technique or approach used."
+ },
+ {
+  "id": 117,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why does CCI use attributes rather than one long fixed code list like some other procedure classifications?",
+  "back": "The attribute-based structure lets coders combine standardized building blocks (site, intervention, approach, and so on) to represent an enormous range of procedures precisely, without requiring CIHI to maintain a separately listed code for every possible combination."
+ },
+ {
+  "id": 118,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the role of the Canadian Coding Standards' 'general standards' section?",
+  "back": "It contains coding rules that apply broadly across chapters and conditions, such as how to handle diagnosis typing, sequencing, and general documentation requirements, as opposed to chapter-specific standards for particular body systems."
+ },
+ {
+  "id": 119,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a chapter-specific coding standard?",
+  "back": "A rule in the Canadian Coding Standards that applies only to a particular ICD-10-CA chapter or clinical area, such as special guidance for coding neoplasms, obstetric conditions, or injuries, supplementing the general standards."
+ },
+ {
+  "id": 120,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What health record element is typically the primary source a coder reviews to identify the MRDx?",
+  "back": "The discharge summary, since it is written after the full course of care and reflects the physician's final synthesis of the diagnoses and their relative significance, though the coder must still corroborate this against the entire chart."
+ },
+ {
+  "id": 121,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why can a coder not rely on the discharge summary alone to assign the MRDx?",
+  "back": "The discharge summary may be incomplete, may omit conditions actively treated earlier in the stay, or may not clearly reflect which condition consumed the most resources, so the coder must review the full record to confirm the correct MRDx."
+ },
+ {
+  "id": 122,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does 'querying for specificity' mean, as distinct from querying for a missing diagnosis?",
+  "back": "It means asking a provider to clarify the type, laterality, severity, or causal relationship of an already-documented condition so a more precise code can be assigned, rather than asking whether an undocumented condition exists at all."
+ },
+ {
+  "id": 123,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a leading query, and why is it improper?",
+  "back": "A query that suggests the specific diagnosis or answer the coder wants the physician to document, which is considered improper because it risks inducing documentation that is not the physician's own independent clinical judgment."
+ },
+ {
+  "id": 124,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What should a coder do if a physician never responds to a query before the abstract deadline?",
+  "back": "Follow the facility's escalation policy, which typically involves a further reminder or escalation to a coding supervisor or health information manager, and code based only on what is clearly documented and supported if no response is received in time."
+ },
+ {
+  "id": 125,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a re-abstraction or recoding audit?",
+  "back": "A quality review method where an independent, often more senior, coder recodes a sample of previously abstracted charts without seeing the original codes, and the two sets of results are compared to measure coding accuracy and agreement."
+ },
+ {
+  "id": 126,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why does CIHI conduct periodic reabstraction studies across facilities?",
+  "back": "To monitor national data quality in the DAD and NACRS, identify systematic coding or documentation issues, and support facility-level education, since these databases underpin funding models, benchmarking, and health system planning."
+ },
+ {
+  "id": 127,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the effect on CMG+ grouping if a true Type 3 complication is missed by the coder?",
+  "back": "The case may group as though it were a routine, uncomplicated admission, understating its true resource intensity weight and misrepresenting the complexity of care actually delivered."
+ },
+ {
+  "id": 128,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does 'case mix' mean at a hospital or system level?",
+  "back": "The overall distribution of case types, measured by CMG+ groupings and their associated resource intensity weights, that a hospital or health region treats over a given period, used to describe and compare institutional workload and complexity."
+ },
+ {
+  "id": 129,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "How is a hospital's total case mix volume typically expressed?",
+  "back": "As weighted cases, calculated by summing each discharge's resource intensity weight rather than simply counting discharges, so that more resource-intensive cases contribute proportionally more to the total."
+ },
+ {
+  "id": 130,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the purpose of a 'typical' versus 'atypical' case designation in some CMG+ groupings?",
+  "back": "It flags whether a case's length of stay fell within the expected range for its group (typical) or was an outlier, either much shorter or much longer (atypical), which can indicate transfers, deaths, or unusual clinical courses affecting cost."
+ },
+ {
+  "id": 131,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is an outlier case in the CMG+ methodology?",
+  "back": "A case whose length of stay or resource use falls well outside the statistically expected range for its assigned group, often trimmed or adjusted separately in cost analyses so it does not distort the average for that group."
+ },
+ {
+  "id": 132,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the alternate level of care (ALC) designation, and why does it matter to HIM data?",
+  "back": "It identifies days during a stay when a patient no longer requires acute care but remains hospitalized while awaiting another care setting; these days are flagged separately since they reflect system capacity issues rather than acute resource intensity."
+ },
+ {
+  "id": 133,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the difference between an admitting diagnosis and a pre-admission comorbidity for typing purposes?",
+  "back": "The admitting diagnosis is the condition suspected at the time of admission and may change; a pre-admission comorbidity is any other condition the patient already had on arrival that is coded as Type 2 if it affected management during the stay."
+ },
+ {
+  "id": 134,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why must coders distinguish a condition that is 'history of' from one that is currently active?",
+  "back": "A resolved condition with no current bearing on treatment is coded differently, often with a personal history code, than an active condition still being managed, since coding an inactive condition as active would misstate the patient's current clinical status and resource use."
+ },
+ {
+  "id": 135,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a query template or standardized query form used for in coding departments?",
+  "back": "It provides a consistent, compliant structure for physician queries that presents relevant clinical findings and offers a range of response options, helping ensure queries remain non-leading and are documented for audit purposes."
+ },
+ {
+  "id": 136,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the health record's role as a communication tool, as distinct from its role as a legal document?",
+  "back": "As a communication tool, the record allows care team members to share observations, plans, and results in real time to coordinate care; as a legal document, it later serves as evidence of what care was provided and decided, and the two roles impose different documentation expectations."
+ },
+ {
+  "id": 137,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is 'if documented, it happened; if not documented, it did not happen' a guiding principle for coders?",
+  "back": "Coding must be based strictly on what is recorded in the health record by an authorized provider, since coders cannot infer or assume clinical facts that are not documented, even if such facts seem clinically likely."
+ },
+ {
+  "id": 138,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the role of the CIHI Case Mix Group Plus Directory of Diagnoses in coding and grouping?",
+  "back": "It classifies each ICD-10-CA diagnosis code according to how it should be treated in CMG+ grouping logic, such as whether it can serve as a significant comorbidity, guiding automated grouper software in assigning cases to the correct group."
+ },
+ {
+  "id": 139,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does 'clinical documentation improvement' (CDI) mean in the Canadian HIM context?",
+  "back": "A structured program, often involving specialist reviewers working concurrently with clinical teams, aimed at improving the specificity, completeness, and timeliness of documentation so that coded data accurately reflects patient acuity and care provided."
+ },
+ {
+  "id": 140,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "How does concurrent documentation review differ from retrospective coding review?",
+  "back": "Concurrent review occurs while the patient is still admitted, allowing real-time clarification with the care team, while retrospective review happens after discharge, when the coder can only query the record as it stands and any physician response comes after the fact."
+ },
+ {
+  "id": 141,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the purpose of an abstracting manual or facility-level coding guideline?",
+  "back": "It documents local interpretations and workflow decisions consistent with national standards, helping ensure that coders within one facility apply ICD-10-CA, CCI, and diagnosis typing consistently with each other."
+ },
+ {
+  "id": 142,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is meant by 'inter-rater reliability' in a coding quality context?",
+  "back": "The degree to which two or more coders, working independently from the same documentation, arrive at the same codes and diagnosis types, used as a measure of coding consistency and a target of ongoing training."
+ },
+ {
+  "id": 143,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is a discharge disposition field, such as discharged home, transferred, or died, collected on the abstract alongside coded diagnoses?",
+  "back": "It provides essential context for interpreting outcomes and resource use, since it distinguishes cases resolved with routine discharge from those ending in transfer or death, which can affect case mix interpretation and quality indicators."
+ },
+ {
+  "id": 144,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the difference between a data quality error and a coding error in root-cause terms?",
+  "back": "A coding error originates in how the coder applied classification rules to available documentation, while a broader data quality error can also stem from poor or missing source documentation itself, meaning the fix may lie with clinicians rather than the coder."
+ },
+ {
+  "id": 145,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why does CIHI provide facilities with feedback reports comparing their coding patterns to national or peer benchmarks?",
+  "back": "To help facilities identify unusual coding patterns, such as an unexpectedly high or low rate of certain diagnosis types or interventions, that may signal documentation gaps, coder training needs, or genuine differences in patient population."
+ },
+ {
+  "id": 146,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the purpose of grouper software in the CMG+ methodology?",
+  "back": "It is the automated application that applies CIHI's published grouping logic to a coded abstract's diagnoses, interventions, and demographic data to assign the case to its CMG+ group and calculate its resource intensity weight."
+ },
+ {
+  "id": 147,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why can two abstracts with an identical MRDx end up in different CMG+ groups?",
+  "back": "Because CMG+ grouping also depends on coded comorbidities, complications, interventions performed, and patient age, so differences in any of these factors, not just the MRDx, can place otherwise similar cases into different groups."
+ },
+ {
+  "id": 148,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a 'never event' or serious reportable event, and how does it relate to coded data?",
+  "back": "A largely preventable, serious patient safety incident, such as a retained surgical item; some jurisdictions use specific ICD-10-CA and CCI code combinations on the abstract to flag and track these events for quality and safety reporting."
+ },
+ {
+  "id": 149,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is timeliness of chart completion tracked as a distinct performance metric in HIM departments?",
+  "back": "Delayed documentation, such as a discharge summary completed weeks after discharge, delays abstract submission to CIHI, which can affect the timeliness and usefulness of national data for funding decisions and health system monitoring."
+ },
+ {
+  "id": 150,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the general standard for how many diagnosis codes can be reported on a single DAD abstract?",
+  "back": "The DAD abstract format allows for multiple diagnosis fields beyond just the MRDx, permitting numerous comorbidities and complications to be captured, though the exact maximum is a fixed technical field limit set by CIHI's data submission specifications."
+ },
+ {
+  "id": 151,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What does it mean for ICD-10-CA and CCI to be updated on a periodic release cycle?",
+  "back": "CIHI issues periodic updates that add, revise, or retire codes and coding standards to reflect new clinical knowledge, technologies, and classification needs, requiring coders and grouper software to be kept current with the version in effect for each reporting period."
+ },
+ {
+  "id": 152,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is it important for a coder to use the version of ICD-10-CA and CCI, and the corresponding Canadian Coding Standards, that is in effect for the discharge date being coded?",
+  "back": "Because code definitions, structures, and standards change between releases, coding a discharge under the wrong version's rules can lead to an invalid or incorrect code being submitted and misclassification in national databases."
+ },
+ {
+  "id": 153,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the relationship between the health record and the concept of informed consent documentation?",
+  "back": "Signed consent forms and documented consent discussions become part of the legal health record, serving as evidence that the patient or substitute decision maker was informed of and agreed to a proposed treatment or procedure."
+ },
+ {
+  "id": 154,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is a coding audit trail, and why does it matter for accountability?",
+  "back": "A record of who coded or changed a code, and when, within the coding software or abstracting system, allowing facilities to trace responsibility for coding decisions and to support quality reviews or investigations."
+ },
+ {
+  "id": 155,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the difference between an 'acquired' condition and a condition that is 'present on admission' for coding purposes?",
+  "back": "A condition present on admission existed before or at the time of arrival and may be coded as Type 2 if significant, while an acquired condition develops during the stay itself and is coded as Type 3, reflecting a complication of care."
+ },
+ {
+  "id": 156,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is uncoded or 'ill-defined' documentation, such as 'query pneumonia, treat and watch,' problematic for a coder?",
+  "back": "It leaves the clinical status of the condition genuinely unclear, since it is neither ruled out nor confirmed, making it difficult to determine whether the condition should be coded at all without further clarification from the provider."
+ },
+ {
+  "id": 157,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What HIM function typically reviews a chart for completeness and outstanding physician signatures before final coding and abstracting?",
+  "back": "The chart or record completion function, sometimes called chart analysis, which flags deficiencies to the responsible provider and ensures required documentation is present before the coder finalizes the abstract."
+ },
+ {
+  "id": 158,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why do CIHI's national databases like the DAD and NACRS depend on accurate diagnosis typing as much as on accurate code selection?",
+  "back": "Because case mix, funding models, and quality indicators built on these databases rely on distinguishing pre-existing conditions from complications and identifying the true MRDx, so an accurate code assigned with the wrong type can still distort downstream analysis."
+ },
+ {
+  "id": 159,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "What is the purpose of comparing a facility's average resource intensity weight over time?",
+  "back": "It helps a facility monitor trends in patient acuity, complexity, and coding practice, and can reveal whether changes in reported RIW reflect real shifts in patient population or potential coding or documentation issues needing review."
+ },
+ {
+  "id": 160,
+  "domain": "health_information_science_and_coding_theory",
+  "front": "Why is the accuracy of secondary-use data from the DAD and NACRS described as dependent on the quality of primary-use documentation?",
+  "back": "Because coders can only abstract what clinicians document during direct patient care, so weaknesses in primary clinical documentation, such as vague or incomplete notes, inevitably limit the accuracy and completeness of the coded data later used for funding, research, and planning."
+ },
+ {
+  "id": 161,
+  "domain": "health_information_analysis",
+  "front": "Define a rate in health statistics.",
+  "back": "A rate expresses the number of times an event actually occurred compared to the number of times it could have occurred, over a specific time period, usually multiplied by a base such as 100 or 1,000."
+ },
+ {
+  "id": 162,
+  "domain": "health_information_analysis",
+  "front": "Define a ratio in health statistics.",
+  "back": "A ratio compares two unrelated or independent quantities, expressed as X:Y or X/Y, where the numerator is not part of the denominator."
+ },
+ {
+  "id": 163,
+  "domain": "health_information_analysis",
+  "front": "Define a proportion in health statistics.",
+  "back": "A proportion is a type of ratio in which the numerator is always included in the denominator, often expressed as a percentage."
+ },
+ {
+  "id": 164,
+  "domain": "health_information_analysis",
+  "front": "What is the key structural difference between a rate and a ratio?",
+  "back": "In a rate, the numerator is a subset of the denominator and time is part of the calculation; in a ratio, the numerator and denominator can represent entirely separate, unrelated groups."
+ },
+ {
+  "id": 165,
+  "domain": "health_information_analysis",
+  "front": "What is incidence?",
+  "back": "Incidence is the number of new cases of a disease or condition occurring in a defined population during a specific time period."
+ },
+ {
+  "id": 166,
+  "domain": "health_information_analysis",
+  "front": "What is prevalence?",
+  "back": "Prevalence is the total number of existing cases, both new and old, of a disease or condition in a defined population at a given point or period in time."
+ },
+ {
+  "id": 167,
+  "domain": "health_information_analysis",
+  "front": "Calculate the incidence rate: 40 new cases of a disease occur in a population of 8,000 over one year.",
+  "back": "40 ÷ 8,000 × 1,000 = 5 per 1,000. The incidence rate is 5 cases per 1,000 population per year."
+ },
+ {
+  "id": 168,
+  "domain": "health_information_analysis",
+  "front": "Calculate the point prevalence: on a single day, 120 people in a population of 6,000 have a condition.",
+  "back": "120 ÷ 6,000 × 1,000 = 20 per 1,000. The point prevalence is 20 per 1,000 population."
+ },
+ {
+  "id": 169,
+  "domain": "health_information_analysis",
+  "front": "Define average length of stay (ALOS).",
+  "back": "ALOS is the average number of days patients stay in a facility, calculated as total discharge days divided by total number of discharges for a given period."
+ },
+ {
+  "id": 170,
+  "domain": "health_information_analysis",
+  "front": "Calculate the ALOS: 5 patients had a combined total of 24 inpatient days.",
+  "back": "24 ÷ 5 = 4.8 days. The average length of stay is 4.8 days."
+ },
+ {
+  "id": 171,
+  "domain": "health_information_analysis",
+  "front": "Calculate the ALOS: 8 patients stayed 2, 3, 3, 5, 6, 6, 7, and 10 days respectively.",
+  "back": "Sum = 2+3+3+5+6+6+7+10 = 42 days. 42 ÷ 8 = 5.25 days. The average length of stay is 5.25 days."
+ },
+ {
+  "id": 172,
+  "domain": "health_information_analysis",
+  "front": "Define bed occupancy rate.",
+  "back": "Bed occupancy rate is the percentage of available inpatient beds that are occupied during a given period, calculated as inpatient service days divided by bed count days, multiplied by 100."
+ },
+ {
+  "id": 173,
+  "domain": "health_information_analysis",
+  "front": "Calculate the bed occupancy rate: a 100-bed unit recorded 2,700 inpatient service days in a 30-day month.",
+  "back": "Bed count days = 100 × 30 = 3,000. Occupancy rate = 2,700 ÷ 3,000 × 100 = 90%."
+ },
+ {
+  "id": 174,
+  "domain": "health_information_analysis",
+  "front": "Calculate the bed occupancy rate: a 50-bed unit had 700 inpatient service days in a 28-day month.",
+  "back": "Bed count days = 50 × 28 = 1,400. Occupancy rate = 700 ÷ 1,400 × 100 = 50%."
+ },
+ {
+  "id": 175,
+  "domain": "health_information_analysis",
+  "front": "Define case fatality rate.",
+  "back": "Case fatality rate is the proportion of people diagnosed with a specific disease who die from that disease within a defined period, expressed as a percentage of diagnosed cases."
+ },
+ {
+  "id": 176,
+  "domain": "health_information_analysis",
+  "front": "Calculate the case fatality rate: 200 people are diagnosed with a disease and 16 of them die from it.",
+  "back": "16 ÷ 200 × 100 = 8%. The case fatality rate is 8%."
+ },
+ {
+  "id": 177,
+  "domain": "health_information_analysis",
+  "front": "Define autopsy rate.",
+  "back": "Autopsy rate is the proportion of inpatient deaths on which an autopsy is performed, calculated as the number of autopsies divided by the number of deaths, multiplied by 100."
+ },
+ {
+  "id": 178,
+  "domain": "health_information_analysis",
+  "front": "Calculate the gross autopsy rate: a hospital had 90 inpatient deaths and performed 18 autopsies.",
+  "back": "18 ÷ 90 × 100 = 20%. The gross autopsy rate is 20%."
+ },
+ {
+  "id": 179,
+  "domain": "health_information_analysis",
+  "front": "Calculate the net autopsy rate: a hospital had 90 inpatient deaths, 10 were coroner cases, and 18 autopsies were performed.",
+  "back": "Eligible deaths = 90 − 10 = 80. Net autopsy rate = 18 ÷ 80 × 100 = 22.5%."
+ },
+ {
+  "id": 180,
+  "domain": "health_information_analysis",
+  "front": "Define gross death rate.",
+  "back": "Gross death rate is the number of inpatient deaths, including newborns, divided by the number of discharges (including deaths) in a period, multiplied by 100."
+ },
+ {
+  "id": 181,
+  "domain": "health_information_analysis",
+  "front": "Calculate the gross death rate: 1,000 discharges occurred in a month, including 12 deaths.",
+  "back": "12 ÷ 1,000 × 100 = 1.2%. The gross death rate is 1.2%."
+ },
+ {
+  "id": 182,
+  "domain": "health_information_analysis",
+  "front": "Calculate the net death rate: a facility had 1,000 discharges including 12 deaths, and 4 of those deaths occurred within 48 hours of admission.",
+  "back": "Eligible deaths = 12 − 4 = 8. Net death rate = 8 ÷ (1,000 − 4) × 100 = 8 ÷ 996 × 100 ≈ 0.80%. Deaths within 48 hours of admission are excluded because they are considered largely unpreventable by the facility."
+ },
+ {
+  "id": 183,
+  "domain": "health_information_analysis",
+  "front": "Calculate the caesarean section rate: 400 deliveries occurred in a month and 100 were caesarean sections.",
+  "back": "100 ÷ 400 × 100 = 25%. The caesarean section rate is 25%."
+ },
+ {
+  "id": 184,
+  "domain": "health_information_analysis",
+  "front": "Calculate the postoperative infection rate: 500 surgical patients were discharged and 5 developed a postoperative infection.",
+  "back": "5 ÷ 500 × 100 = 1%. The postoperative infection rate is 1%."
+ },
+ {
+  "id": 185,
+  "domain": "health_information_analysis",
+  "front": "Calculate the fetal death rate: a facility recorded 990 live births and 10 intermediate/late fetal deaths.",
+  "back": "10 ÷ (990 + 10) × 100 = 10 ÷ 1,000 × 100 = 1%. The fetal death rate is 1%."
+ },
+ {
+  "id": 186,
+  "domain": "health_information_analysis",
+  "front": "Calculate the consultation rate: 250 of 1,000 discharged patients received a consultation from another physician.",
+  "back": "250 ÷ 1,000 × 100 = 25%. The consultation rate is 25%."
+ },
+ {
+  "id": 187,
+  "domain": "health_information_analysis",
+  "front": "Calculate the hospital-acquired infection rate: a unit had 800 discharges and identified 8 hospital-acquired infections.",
+  "back": "8 ÷ 800 × 100 = 1%. The hospital-acquired infection rate is 1%."
+ },
+ {
+  "id": 188,
+  "domain": "health_information_analysis",
+  "front": "Define the mean in descriptive statistics.",
+  "back": "The mean is the arithmetic average of a data set, calculated by summing all values and dividing by the number of values."
+ },
+ {
+  "id": 189,
+  "domain": "health_information_analysis",
+  "front": "Calculate the mean length of stay for values 3, 5, 7, 9, and 11 days.",
+  "back": "Sum = 3+5+7+9+11 = 35. 35 ÷ 5 = 7. The mean is 7 days."
+ },
+ {
+  "id": 190,
+  "domain": "health_information_analysis",
+  "front": "Define the median and find it for: 2, 4, 6, 8, 20.",
+  "back": "The median is the middle value in a data set arranged in order. Arranged in order the middle value is 6, so the median is 6."
+ },
+ {
+  "id": 191,
+  "domain": "health_information_analysis",
+  "front": "Why might a report present the median instead of the mean length of stay?",
+  "back": "The median is not distorted by extreme outliers, such as one very long stay, so it can better represent the typical patient experience than a mean that skews toward outliers."
+ },
+ {
+  "id": 192,
+  "domain": "health_information_analysis",
+  "front": "Define the mode and find it for: 4, 6, 6, 7, 9, 9, 9, 10.",
+  "back": "The mode is the value that occurs most frequently in a data set. The value 9 occurs three times, more than any other value, so the mode is 9."
+ },
+ {
+  "id": 193,
+  "domain": "health_information_analysis",
+  "front": "Calculate the range of lengths of stay: 2, 5, 9, 14, 20 days.",
+  "back": "Range is the highest value minus the lowest value. 20 − 2 = 18. The range is 18 days."
+ },
+ {
+  "id": 194,
+  "domain": "health_information_analysis",
+  "front": "What does standard deviation measure?",
+  "back": "Standard deviation measures how much individual values in a data set typically differ, or deviate, from the mean; a larger standard deviation means the data is more spread out."
+ },
+ {
+  "id": 195,
+  "domain": "health_information_analysis",
+  "front": "What is variance and how does it relate to standard deviation?",
+  "back": "Variance is the average of the squared differences from the mean, and standard deviation is the square root of the variance, bringing the measure back into the original units."
+ },
+ {
+  "id": 196,
+  "domain": "health_information_analysis",
+  "front": "Name the four levels of measurement used in health data.",
+  "back": "Nominal (named categories with no order, such as blood type), ordinal (ranked categories, such as pain scale), interval (equal intervals with no true zero, such as temperature in Celsius), and ratio (equal intervals with a true zero, such as weight or length of stay)."
+ },
+ {
+  "id": 197,
+  "domain": "health_information_analysis",
+  "front": "Give an example of ordinal-level data in a health record.",
+  "back": "A pain scale rating of 1 to 10 or a tumour stage grouping, since these have a meaningful order but the intervals between ranks are not necessarily equal."
+ },
+ {
+  "id": 198,
+  "domain": "health_information_analysis",
+  "front": "What is the AHIMA data quality management model built around?",
+  "back": "It organizes data quality around characteristics grouped by data application, collection, warehousing, and analysis, covering dimensions such as accuracy, accessibility, comprehensiveness, consistency, currency, definition, granularity, precision, relevancy, and timeliness."
+ },
+ {
+  "id": 199,
+  "domain": "health_information_analysis",
+  "front": "Define the data quality dimension of accuracy.",
+  "back": "Accuracy means the data is correct, valid, and free of error, correctly reflecting what actually occurred or what is true about the patient."
+ },
+ {
+  "id": 200,
+  "domain": "health_information_analysis",
+  "front": "Define the data quality dimension of completeness.",
+  "back": "Completeness means all required data elements are included in the record, with no missing fields needed for clinical or administrative purposes."
+ },
+ {
+  "id": 201,
+  "domain": "health_information_analysis",
+  "front": "Define the data quality dimension of consistency.",
+  "back": "Consistency means data values are reliable and the same across applications, systems, and over time, so the same fact is not recorded differently in different places."
+ },
+ {
+  "id": 202,
+  "domain": "health_information_analysis",
+  "front": "Define the data quality dimension of timeliness.",
+  "back": "Timeliness means data is up to date and recorded or made available within a time frame that supports its intended use, such as documenting care soon after it is delivered."
+ },
+ {
+  "id": 203,
+  "domain": "health_information_analysis",
+  "front": "Define the data quality dimension of granularity.",
+  "back": "Granularity is the level of detail at which a data element is defined and collected, such as recording exact blood pressure values instead of only a broad category."
+ },
+ {
+  "id": 204,
+  "domain": "health_information_analysis",
+  "front": "Define the data quality dimension of precision.",
+  "back": "Precision means data values are just detailed enough to support the intended use, with users and developers agreeing on the acceptable level of detail in advance."
+ },
+ {
+  "id": 205,
+  "domain": "health_information_analysis",
+  "front": "Define the data quality dimension of relevancy.",
+  "back": "Relevancy means the data collected is meaningful and useful for the purpose it is intended to serve, avoiding the collection of unnecessary information."
+ },
+ {
+  "id": 206,
+  "domain": "health_information_analysis",
+  "front": "When would a HIM analyst choose a bar chart over a line graph?",
+  "back": "A bar chart is best for comparing discrete categories, such as discharges by diagnosis, while a line graph is better for showing a continuous trend over time, such as monthly admissions."
+ },
+ {
+  "id": 207,
+  "domain": "health_information_analysis",
+  "front": "When is a pie chart the appropriate visualization?",
+  "back": "A pie chart is appropriate when showing how parts relate to a whole as percentages, such as the proportion of admissions by payer type, and works best with a small number of categories."
+ },
+ {
+  "id": 208,
+  "domain": "health_information_analysis",
+  "front": "What is a histogram used for?",
+  "back": "A histogram displays the frequency distribution of continuous numeric data grouped into intervals, such as the distribution of patient ages or lengths of stay."
+ },
+ {
+  "id": 209,
+  "domain": "health_information_analysis",
+  "front": "What is a scatter plot used for?",
+  "back": "A scatter plot shows the relationship between two numeric variables, helping identify whether a correlation exists, such as between patient age and length of stay."
+ },
+ {
+  "id": 210,
+  "domain": "health_information_analysis",
+  "front": "What is a control chart and how does it differ from a run chart?",
+  "back": "A control chart plots data over time like a run chart but adds statistically calculated upper and lower control limits, helping identify whether variation is normal or signals a process out of control."
+ },
+ {
+  "id": 211,
+  "domain": "health_information_analysis",
+  "front": "What is a Pareto chart used for?",
+  "back": "A Pareto chart combines a bar chart ranked from largest to smallest with a cumulative percentage line, applying the 80/20 principle to identify which few causes account for most of a problem."
+ },
+ {
+  "id": 212,
+  "domain": "health_information_analysis",
+  "front": "What is the difference between qualitative and quantitative research?",
+  "back": "Qualitative research explores non-numeric data such as themes, experiences, and perceptions, while quantitative research collects and analyzes numeric data to test hypotheses and measure relationships."
+ },
+ {
+  "id": 213,
+  "domain": "health_information_analysis",
+  "front": "Distinguish an independent variable from a dependent variable in a study.",
+  "back": "The independent variable is the factor the researcher manipulates or examines as a possible cause, while the dependent variable is the outcome measured to see if it changes as a result."
+ },
+ {
+  "id": 214,
+  "domain": "health_information_analysis",
+  "front": "Define a hypothesis in research methodology.",
+  "back": "A hypothesis is a testable statement predicting a relationship between two or more variables, which a study is designed to support or reject through data collection and analysis."
+ },
+ {
+  "id": 215,
+  "domain": "health_information_analysis",
+  "front": "Define validity in research methodology.",
+  "back": "Validity is the extent to which a study or measurement tool actually measures what it claims to measure, producing accurate and meaningful results."
+ },
+ {
+  "id": 216,
+  "domain": "health_information_analysis",
+  "front": "Define reliability in research methodology.",
+  "back": "Reliability is the extent to which a study or measurement tool produces consistent, repeatable results when applied under the same conditions."
+ },
+ {
+  "id": 217,
+  "domain": "health_information_analysis",
+  "front": "What is the difference between validity and reliability?",
+  "back": "Validity asks whether a tool measures the correct concept, while reliability asks whether it produces the same result consistently; a tool can be reliable without being valid, but it cannot be valid without being reliable."
+ },
+ {
+  "id": 218,
+  "domain": "health_information_analysis",
+  "front": "What is sampling in research methodology?",
+  "back": "Sampling is the process of selecting a subset of individuals from a larger population to study, with the goal that the sample's results can be reasonably generalized to the whole population."
+ },
+ {
+  "id": 219,
+  "domain": "health_information_analysis",
+  "front": "What is the purpose of a Research Ethics Board (REB) or Institutional Review Board (IRB)?",
+  "back": "It reviews proposed research involving human subjects to ensure participants are protected, informed consent is obtained, and risks are minimized before the study is allowed to proceed."
+ },
+ {
+  "id": 220,
+  "domain": "health_information_analysis",
+  "front": "Why does correlation not prove causation?",
+  "back": "Two variables can move together, or be correlated, because of chance, a shared underlying cause, or reverse causation, so a statistical association alone does not prove that one variable directly causes the other."
+ },
+ {
+  "id": 221,
+  "domain": "health_information_analysis",
+  "front": "Define utilization management (UM).",
+  "back": "Utilization management is the process of evaluating the medical necessity, appropriateness, and efficiency of healthcare services, procedures, and facilities to ensure resources are used effectively."
+ },
+ {
+  "id": 222,
+  "domain": "health_information_analysis",
+  "front": "What is prospective utilization review?",
+  "back": "Prospective review evaluates the medical necessity of a proposed service before it is provided, such as prior authorization for a planned surgery or admission."
+ },
+ {
+  "id": 223,
+  "domain": "health_information_analysis",
+  "front": "What is concurrent utilization review?",
+  "back": "Concurrent review evaluates the medical necessity and appropriateness of care while the patient is still receiving services, such as reviewing an ongoing inpatient stay to confirm continued admission is justified."
+ },
+ {
+  "id": 224,
+  "domain": "health_information_analysis",
+  "front": "What is retrospective utilization review?",
+  "back": "Retrospective review evaluates the medical necessity and appropriateness of care after the services have already been provided and the patient has been discharged."
+ },
+ {
+  "id": 225,
+  "domain": "health_information_analysis",
+  "front": "Describe the four steps of the PDSA cycle used in quality improvement.",
+  "back": "Plan (identify a change to test), Do (implement the change on a small scale), Study (analyze the results), and Act (adopt, adjust, or abandon the change based on findings), then the cycle repeats."
+ },
+ {
+  "id": 226,
+  "domain": "health_information_analysis",
+  "front": "What is a root cause analysis (RCA)?",
+  "back": "RCA is a structured method for investigating an adverse event or system failure to identify the underlying, systemic causes rather than just the immediate or surface-level cause."
+ },
+ {
+  "id": 227,
+  "domain": "health_information_analysis",
+  "front": "What is a sentinel event?",
+  "back": "A sentinel event is an unexpected occurrence involving death or serious physical or psychological injury not related to the natural course of the patient's illness, signaling the need for immediate investigation and response."
+ },
+ {
+  "id": 228,
+  "domain": "health_information_analysis",
+  "front": "What is benchmarking in quality improvement?",
+  "back": "Benchmarking is the process of comparing an organization's performance metrics against internal targets, other facilities, or industry best practices to identify gaps and drive improvement."
+ },
+ {
+  "id": 229,
+  "domain": "health_information_analysis",
+  "front": "What is the purpose of peer review in quality improvement?",
+  "back": "Peer review has clinicians in the same specialty evaluate the quality and appropriateness of a colleague's care decisions, helping identify practice variation and opportunities to improve care standards."
+ },
+ {
+  "id": 230,
+  "domain": "health_information_analysis",
+  "front": "What is the role of clinical practice guidelines (CPGs) in utilization management?",
+  "back": "CPGs are evidence-based recommendations that define appropriate care for specific conditions, giving utilization reviewers a consistent, objective standard against which to judge medical necessity."
+ },
+ {
+  "id": 231,
+  "domain": "technology_and_health_information",
+  "front": "What is an electronic medical record (EMR)?",
+  "back": "An EMR is the digital version of a patient's chart used within a single clinical practice or organization to support the care that organization provides. It is provider-centric and generally does not travel with the patient when they change providers."
+ },
+ {
+  "id": 232,
+  "domain": "technology_and_health_information",
+  "front": "What is an electronic health record (EHR)?",
+  "back": "An EHR is a broader, longitudinal record of a patient's health information designed to be shared across multiple organizations and care settings. It aggregates data from many sources, such as hospitals, labs, and clinics, to give a fuller picture of the patient's health history."
+ },
+ {
+  "id": 233,
+  "domain": "technology_and_health_information",
+  "front": "What is a personal health record (PHR)?",
+  "back": "A PHR is a health record that the patient themselves manages and controls, often containing information the patient enters as well as data pulled from provider systems. Unlike the EMR and EHR, the patient decides what is included and who can access it."
+ },
+ {
+  "id": 234,
+  "domain": "technology_and_health_information",
+  "front": "How does an EMR differ from an EHR in terms of scope?",
+  "back": "An EMR is confined to a single organization's internal record of care, while an EHR is designed to be interoperable and shared across multiple organizations, forming a more complete longitudinal view of the patient across the care continuum."
+ },
+ {
+  "id": 235,
+  "domain": "technology_and_health_information",
+  "front": "Who controls access to a personal health record?",
+  "back": "The patient controls access to a personal health record. This distinguishes it from the EMR and EHR, which are controlled by the healthcare organizations and providers that create and maintain them."
+ },
+ {
+  "id": 236,
+  "domain": "technology_and_health_information",
+  "front": "What is a clinical information system?",
+  "back": "A clinical information system is software used to capture, store, and manage clinical data related to direct patient care, such as physician orders, clinical documentation, nursing notes, and results reporting."
+ },
+ {
+  "id": 237,
+  "domain": "technology_and_health_information",
+  "front": "What is a laboratory information system (LIS)?",
+  "back": "A laboratory information system manages the workflow of laboratory testing, including order entry, specimen tracking, result reporting, and quality control, and typically interfaces with the EHR to deliver results to clinicians."
+ },
+ {
+  "id": 238,
+  "domain": "technology_and_health_information",
+  "front": "What is a pharmacy information system?",
+  "back": "A pharmacy information system manages medication ordering, dispensing, inventory, and drug interaction checking, and it typically interfaces with clinical systems to support medication reconciliation and closed-loop medication administration."
+ },
+ {
+  "id": 239,
+  "domain": "technology_and_health_information",
+  "front": "What is a Picture Archiving and Communication System (PACS)?",
+  "back": "A PACS is a system used to store, retrieve, and display diagnostic images such as X-rays, CT scans, and MRIs. It replaces physical film with digital images that can be accessed electronically by authorized clinicians."
+ },
+ {
+  "id": 240,
+  "domain": "technology_and_health_information",
+  "front": "What standard is commonly used to transmit and store medical images in a PACS?",
+  "back": "DICOM, which stands for Digital Imaging and Communications in Medicine, is the standard format and protocol used for storing, transmitting, and displaying medical images across imaging equipment and PACS."
+ },
+ {
+  "id": 241,
+  "domain": "technology_and_health_information",
+  "front": "What is a Radiology Information System (RIS)?",
+  "back": "A RIS manages radiology department workflow, including scheduling, patient tracking, and reporting of imaging studies, and it commonly works alongside a PACS to link images with their associated orders and reports."
+ },
+ {
+  "id": 242,
+  "domain": "technology_and_health_information",
+  "front": "What is health information exchange (HIE)?",
+  "back": "Health information exchange is the electronic sharing of patient health information between different organizations and systems, allowing clinicians to access relevant data regardless of where the patient was previously treated."
+ },
+ {
+  "id": 243,
+  "domain": "technology_and_health_information",
+  "front": "What is the main purpose of health information exchange?",
+  "back": "The main purpose of health information exchange is to improve continuity and safety of care by making a patient's relevant health information available to authorized providers at the point of care, reducing duplicate testing and gaps in information."
+ },
+ {
+  "id": 244,
+  "domain": "technology_and_health_information",
+  "front": "What is an admission-discharge-transfer (ADT) feed used for?",
+  "back": "An ADT feed transmits real-time messages about a patient's admission, discharge, or transfer between departments or facilities, allowing other systems to stay synchronized with the patient's current care status and location."
+ },
+ {
+  "id": 245,
+  "domain": "technology_and_health_information",
+  "front": "What is a Computerized Provider Order Entry (CPOE) system?",
+  "back": "A CPOE system allows clinicians to enter orders for medications, tests, and procedures directly into the computer, reducing transcription errors and supporting clinical decision support checks at the point of ordering."
+ },
+ {
+  "id": 246,
+  "domain": "technology_and_health_information",
+  "front": "What is clinical decision support (CDS)?",
+  "back": "Clinical decision support refers to tools and alerts built into health information systems that provide clinicians with relevant knowledge or reminders, such as drug interaction warnings or preventive care prompts, to support decision making."
+ },
+ {
+  "id": 247,
+  "domain": "technology_and_health_information",
+  "front": "What is interoperability in health information technology?",
+  "back": "Interoperability is the ability of different health information systems and software applications to communicate, exchange data, and use the information that has been exchanged in a meaningful, usable way."
+ },
+ {
+  "id": 248,
+  "domain": "technology_and_health_information",
+  "front": "What are the commonly described levels of interoperability?",
+  "back": "Interoperability is often described at three levels: foundational, which allows data exchange without requiring the receiving system to interpret it; structural, which defines the format of data exchange; and semantic, which ensures the meaning of the exchanged data is preserved and understood."
+ },
+ {
+  "id": 249,
+  "domain": "technology_and_health_information",
+  "front": "What is semantic interoperability?",
+  "back": "Semantic interoperability is the ability of systems to exchange data such that the meaning of the information is preserved and consistently understood by both the sending and receiving systems, typically achieved through the use of shared standardized terminologies."
+ },
+ {
+  "id": 250,
+  "domain": "technology_and_health_information",
+  "front": "What is HL7?",
+  "back": "HL7, or Health Level Seven, is an international standards development organization that creates standards for the exchange, integration, and retrieval of electronic health information between different systems."
+ },
+ {
+  "id": 251,
+  "domain": "technology_and_health_information",
+  "front": "What is HL7 Version 2 (HL7 v2)?",
+  "back": "HL7 v2 is a widely adopted messaging standard that uses delimited text segments to exchange data such as admission-discharge-transfer messages, laboratory results, and orders between healthcare systems. It remains heavily used despite being an older standard."
+ },
+ {
+  "id": 252,
+  "domain": "technology_and_health_information",
+  "front": "What is HL7 Version 3 (HL7 v3)?",
+  "back": "HL7 v3 is a messaging standard built on the Reference Information Model, intended to improve consistency and precision compared to HL7 v2, though it saw more limited adoption because of its complexity."
+ },
+ {
+  "id": 253,
+  "domain": "technology_and_health_information",
+  "front": "What is the Clinical Document Architecture (CDA)?",
+  "back": "The Clinical Document Architecture is an HL7 standard for the structure and semantics of clinical documents, such as discharge summaries, using an XML-based format so documents can be exchanged and processed electronically while remaining human readable."
+ },
+ {
+  "id": 254,
+  "domain": "technology_and_health_information",
+  "front": "What is HL7 FHIR?",
+  "back": "HL7 FHIR, which stands for Fast Healthcare Interoperability Resources, is a modern standard for exchanging healthcare information electronically. It uses modular building blocks called resources and is built on web technologies such as RESTful APIs."
+ },
+ {
+  "id": 255,
+  "domain": "technology_and_health_information",
+  "front": "What are FHIR resources?",
+  "back": "FHIR resources are the modular, reusable building blocks of the FHIR standard, each representing a discrete piece of health information, such as a patient, an observation, a medication, or a condition, that can be combined and exchanged as needed."
+ },
+ {
+  "id": 256,
+  "domain": "technology_and_health_information",
+  "front": "How does FHIR differ from HL7 v2 in its technical approach?",
+  "back": "FHIR uses modern web-based technologies such as RESTful APIs and supports formats like JSON and XML, making it easier to implement and integrate with contemporary software, whereas HL7 v2 relies on older delimited text messaging."
+ },
+ {
+  "id": 257,
+  "domain": "technology_and_health_information",
+  "front": "What is an API in the context of health information exchange?",
+  "back": "An API, or application programming interface, is a defined set of rules that allows different software systems to communicate and request or exchange data with one another, such as retrieving a patient's record through a FHIR API."
+ },
+ {
+  "id": 258,
+  "domain": "technology_and_health_information",
+  "front": "What is SNOMED CT?",
+  "back": "SNOMED CT, or Systematized Nomenclature of Medicine Clinical Terms, is a comprehensive, multilingual clinical terminology that provides standardized concepts and codes used to represent clinical findings, procedures, and other health information in electronic records."
+ },
+ {
+  "id": 259,
+  "domain": "technology_and_health_information",
+  "front": "Who owns and maintains SNOMED CT?",
+  "back": "SNOMED CT is owned and maintained by SNOMED International, a not-for-profit organization. Countries that are members can license and distribute national editions of the terminology to their healthcare systems."
+ },
+ {
+  "id": 260,
+  "domain": "technology_and_health_information",
+  "front": "What role does Canada Health Infoway play with SNOMED CT?",
+  "back": "Canada Health Infoway holds the Canadian license for SNOMED CT and is responsible for distributing and supporting the Canadian edition of the terminology for use across Canadian health information systems."
+ },
+ {
+  "id": 261,
+  "domain": "technology_and_health_information",
+  "front": "What is the difference between SNOMED CT and ICD-10-CA?",
+  "back": "SNOMED CT is a clinical terminology used to capture detailed clinical findings and concepts at the point of care, while ICD-10-CA is a classification system used primarily for coding diagnoses for statistical reporting, case mix, and reimbursement purposes."
+ },
+ {
+  "id": 262,
+  "domain": "technology_and_health_information",
+  "front": "What is LOINC?",
+  "back": "LOINC, or Logical Observation Identifiers Names and Codes, is a standard terminology used to identify laboratory tests, clinical observations, and measurements, allowing results from different systems to be consistently labeled and compared."
+ },
+ {
+  "id": 263,
+  "domain": "technology_and_health_information",
+  "front": "Why is LOINC important for laboratory data exchange?",
+  "back": "LOINC gives each type of laboratory test or clinical observation a unique, standardized code, which allows results generated by different laboratories or systems to be correctly matched and compared even if local test names differ."
+ },
+ {
+  "id": 264,
+  "domain": "technology_and_health_information",
+  "front": "How do SNOMED CT and LOINC typically work together in an EHR?",
+  "back": "LOINC is commonly used to identify what test or observation was performed, while SNOMED CT is commonly used to code the clinical finding or result itself, so the two terminologies are often used together to fully describe a laboratory or clinical observation."
+ },
+ {
+  "id": 265,
+  "domain": "technology_and_health_information",
+  "front": "What is the Canadian Classification of Health Interventions (CCI)?",
+  "back": "The Canadian Classification of Health Interventions is a coding classification maintained by CIHI that is used to code procedures and interventions performed on patients, complementing ICD-10-CA diagnosis coding."
+ },
+ {
+  "id": 266,
+  "domain": "technology_and_health_information",
+  "front": "What is a controlled vocabulary in health information management?",
+  "back": "A controlled vocabulary is a standardized, predefined set of terms used consistently to represent concepts in health records, reducing ambiguity and supporting accurate data capture, retrieval, and exchange across systems."
+ },
+ {
+  "id": 267,
+  "domain": "technology_and_health_information",
+  "front": "What is a terminology mapping?",
+  "back": "Terminology mapping is the process of linking codes or concepts from one coding system or terminology to corresponding codes or concepts in another, allowing data captured in one standard to be translated for use in a system that relies on a different standard."
+ },
+ {
+  "id": 268,
+  "domain": "technology_and_health_information",
+  "front": "What is a Master Patient Index (MPI)?",
+  "back": "A Master Patient Index is a database that maintains a unique identifier for each patient within an organization and links that identifier to all of the patient's records across the organization's various systems and departments."
+ },
+ {
+  "id": 269,
+  "domain": "technology_and_health_information",
+  "front": "What is an Enterprise Master Patient Index (EMPI)?",
+  "back": "An Enterprise Master Patient Index extends the concept of a Master Patient Index across multiple facilities or organizations within a larger health system or network, helping to uniquely identify and link patient records across those separate entities."
+ },
+ {
+  "id": 270,
+  "domain": "technology_and_health_information",
+  "front": "What is a duplicate patient record?",
+  "back": "A duplicate patient record occurs when the same patient is assigned more than one unique identifier within the same system, resulting in two or more separate records for that individual instead of a single unified record."
+ },
+ {
+  "id": 271,
+  "domain": "technology_and_health_information",
+  "front": "What problems can duplicate patient records cause?",
+  "back": "Duplicate patient records can lead to fragmented clinical information, missed allergies or medication history, delayed or incorrect care decisions, and inefficient administrative processes such as duplicate testing or billing errors."
+ },
+ {
+  "id": 272,
+  "domain": "technology_and_health_information",
+  "front": "What is an overlay error in a Master Patient Index?",
+  "back": "An overlay error occurs when the health information of one patient is incorrectly merged into or recorded under another patient's unique identifier, so that one record now contains a mix of two different people's information under a single identity."
+ },
+ {
+  "id": 273,
+  "domain": "technology_and_health_information",
+  "front": "Why is an overlay considered a serious patient safety risk?",
+  "back": "An overlay mixes two different patients' clinical information under one identifier, which can lead a clinician to make decisions based on the wrong patient's history, allergies, or medications, creating a direct risk of patient harm."
+ },
+ {
+  "id": 274,
+  "domain": "technology_and_health_information",
+  "front": "What is an overlap in the context of a Master Patient Index?",
+  "back": "An overlap occurs when the same patient has different unique identifiers in different facilities or systems within an integrated network, so their records exist correctly but separately and have not yet been linked together."
+ },
+ {
+  "id": 275,
+  "domain": "technology_and_health_information",
+  "front": "How does an overlap differ from an overlay?",
+  "back": "An overlap involves the same patient having separate, unlinked but accurate identifiers across different systems, while an overlay involves two different patients' information being incorrectly combined under a single identifier."
+ },
+ {
+  "id": 276,
+  "domain": "technology_and_health_information",
+  "front": "What is record linkage?",
+  "back": "Record linkage is the process of identifying and connecting records that belong to the same individual, often across different systems or databases, using identifying data such as name, date of birth, and health card number."
+ },
+ {
+  "id": 277,
+  "domain": "technology_and_health_information",
+  "front": "What is deterministic matching in record linkage?",
+  "back": "Deterministic matching links records based on exact agreement of specific identifying data elements, such as an exact match on health card number and date of birth, and does not link records when those elements differ even slightly."
+ },
+ {
+  "id": 278,
+  "domain": "technology_and_health_information",
+  "front": "What is probabilistic matching in record linkage?",
+  "back": "Probabilistic matching assigns weighted scores to the similarity of multiple identifying data elements between two records and calculates a probability that they represent the same individual, allowing records to be linked even when some data elements do not match exactly."
+ },
+ {
+  "id": 279,
+  "domain": "technology_and_health_information",
+  "front": "What data elements are commonly used to match patient records?",
+  "back": "Common data elements used to match patient records include the patient's full legal name, date of birth, sex, health card number, and address, often used in combination to reduce the chance of an incorrect match."
+ },
+ {
+  "id": 280,
+  "domain": "technology_and_health_information",
+  "front": "What is the role of a Health Information Management professional in maintaining the MPI?",
+  "back": "A Health Information Management professional monitors the Master Patient Index for potential duplicates, overlays, and overlaps, investigates flagged discrepancies, and follows organizational policy to correct and merge records accurately."
+ },
+ {
+  "id": 281,
+  "domain": "technology_and_health_information",
+  "front": "What steps are typically taken to correct a duplicate patient record?",
+  "back": "Correcting a duplicate patient record typically involves verifying that both records belong to the same patient, merging the clinical and administrative data into a single active record, and retiring the redundant identifier while maintaining an audit trail of the correction."
+ },
+ {
+  "id": 282,
+  "domain": "technology_and_health_information",
+  "front": "Why should duplicate resolution always preserve an audit trail?",
+  "back": "An audit trail documents what records were merged, when, and by whom, which supports data integrity, accountability, and the ability to trace or reverse a correction if an error in the merge process is later discovered."
+ },
+ {
+  "id": 283,
+  "domain": "technology_and_health_information",
+  "front": "What is data quality in the context of health information systems?",
+  "back": "Data quality refers to the accuracy, completeness, consistency, timeliness, and reliability of health information, which directly affects the trustworthiness of data used for clinical care, reporting, and decision making."
+ },
+ {
+  "id": 284,
+  "domain": "technology_and_health_information",
+  "front": "What is data governance?",
+  "back": "Data governance is the framework of policies, roles, standards, and processes an organization uses to manage the availability, quality, integrity, and security of its data throughout its lifecycle."
+ },
+ {
+  "id": 285,
+  "domain": "technology_and_health_information",
+  "front": "What is systems implementation in health information technology?",
+  "back": "Systems implementation is the structured process of planning, configuring, testing, and deploying a new information system within an organization, including preparing staff, workflows, and data to transition successfully to the new system."
+ },
+ {
+  "id": 286,
+  "domain": "technology_and_health_information",
+  "front": "What is a needs assessment in systems implementation?",
+  "back": "A needs assessment is an early planning step in systems implementation that identifies the organization's current gaps, requirements, and priorities to guide selection and configuration of the new information system."
+ },
+ {
+  "id": 287,
+  "domain": "technology_and_health_information",
+  "front": "What is data migration in a systems implementation project?",
+  "back": "Data migration is the process of transferring existing data from a legacy system into a new system, which requires careful mapping, cleansing, and validation to ensure the data remains accurate and usable after the move."
+ },
+ {
+  "id": 288,
+  "domain": "technology_and_health_information",
+  "front": "What is a super user in the context of a health information systems go-live?",
+  "back": "A super user is a staff member who receives advanced training on a new system before go-live and then supports their colleagues by answering questions and troubleshooting issues on the floor during and after implementation."
+ },
+ {
+  "id": 289,
+  "domain": "technology_and_health_information",
+  "front": "What is a go-live in systems implementation?",
+  "back": "Go-live is the point at which a new information system is activated for actual use in the live clinical or operational environment, replacing or beginning to run alongside the previous system or process."
+ },
+ {
+  "id": 290,
+  "domain": "technology_and_health_information",
+  "front": "What is downtime procedure planning?",
+  "back": "Downtime procedure planning involves preparing backup processes, such as paper-based documentation, that staff can use to continue safe patient care and operations if an electronic information system becomes unavailable."
+ },
+ {
+  "id": 291,
+  "domain": "technology_and_health_information",
+  "front": "What is Lewin's change management model?",
+  "back": "Lewin's change management model describes organizational change in three stages: unfreezing existing practices, making the change, and refreezing the new practices so they become the accepted standard way of working."
+ },
+ {
+  "id": 292,
+  "domain": "technology_and_health_information",
+  "front": "Why is staff engagement important during a health information systems implementation?",
+  "back": "Staff engagement helps build buy-in and reduces resistance to change, and it also surfaces practical workflow issues early, both of which improve the likelihood that the new system will be adopted successfully and used correctly."
+ },
+ {
+  "id": 293,
+  "domain": "technology_and_health_information",
+  "front": "What is a parallel run in systems implementation?",
+  "back": "A parallel run is a transition approach in which the old and new systems are operated simultaneously for a period of time, allowing staff to verify that the new system produces consistent results before the old system is retired."
+ },
+ {
+  "id": 294,
+  "domain": "technology_and_health_information",
+  "front": "What is user acceptance testing (UAT)?",
+  "back": "User acceptance testing is a phase of systems implementation in which intended end users test the new system in realistic scenarios to confirm it meets their functional needs before it is deployed into full production use."
+ },
+ {
+  "id": 295,
+  "domain": "technology_and_health_information",
+  "front": "What is Canada Health Infoway?",
+  "back": "Canada Health Infoway is an independent, federally funded, not-for-profit organization established to accelerate the development and adoption of digital health solutions across Canada."
+ },
+ {
+  "id": 296,
+  "domain": "technology_and_health_information",
+  "front": "When was Canada Health Infoway established?",
+  "back": "Canada Health Infoway was established in 2001 as a federally funded organization tasked with working with provincial and territorial governments to advance digital health across the country."
+ },
+ {
+  "id": 297,
+  "domain": "technology_and_health_information",
+  "front": "How is Canada Health Infoway funded?",
+  "back": "Canada Health Infoway is funded through investments from the Government of Canada, which it uses to support and co-fund digital health initiatives in partnership with provinces and territories."
+ },
+ {
+  "id": 298,
+  "domain": "technology_and_health_information",
+  "front": "What is PrescribeIT?",
+  "back": "PrescribeIT is a national electronic prescribing service developed and operated in partnership with Canada Health Infoway, allowing prescriptions to be transmitted electronically and securely between prescribers and pharmacies."
+ },
+ {
+  "id": 299,
+  "domain": "technology_and_health_information",
+  "front": "What is Panorama in the Canadian digital health context?",
+  "back": "Panorama is a public health information system used across several Canadian jurisdictions to support functions such as immunization tracking, disease surveillance, and outbreak management, and its development has been supported through Canada Health Infoway."
+ },
+ {
+  "id": 300,
+  "domain": "technology_and_health_information",
+  "front": "What role does Canada Health Infoway play in interoperability standards in Canada?",
+  "back": "Canada Health Infoway supports the adoption and licensing of key interoperability standards in Canada, including holding the Canadian license for SNOMED CT and supporting pan-Canadian work on standards such as HL7 and FHIR to promote consistent data exchange across the health system."
+ },
+ {
+  "id": 301,
+  "domain": "access_and_security",
+  "front": "Is there a single national law that governs health privacy across all of Canada's provincial health systems?",
+  "back": "No. Health information privacy in Canada is governed by a patchwork of federal and provincial laws, and most provinces have their own health-specific legislation that takes precedence over the federal law within that province."
+ },
+ {
+  "id": 302,
+  "domain": "access_and_security",
+  "front": "What is PIPEDA and when does it apply to health information?",
+  "back": "PIPEDA is the federal Personal Information Protection and Electronic Documents Act. It applies to federally regulated organizations and, for the private sector, it applies by default only in provinces that have not enacted their own substantially similar privacy legislation."
+ },
+ {
+  "id": 303,
+  "domain": "access_and_security",
+  "front": "What does it mean for a provincial law to be declared \"substantially similar\" to PIPEDA?",
+  "back": "When the federal government formally recognizes a provincial private-sector or health-specific privacy law as substantially similar to PIPEDA, PIPEDA no longer applies to organizations covered by that provincial law for activities within the province."
+ },
+ {
+  "id": 304,
+  "domain": "access_and_security",
+  "front": "Name the Ontario law that governs the collection, use, and disclosure of personal health information.",
+  "back": "The Personal Health Information Protection Act, known as PHIPA, governs personal health information handled by health information custodians in Ontario."
+ },
+ {
+  "id": 305,
+  "domain": "access_and_security",
+  "front": "Name the Alberta law that governs personal health information held by custodians such as hospitals and physicians.",
+  "back": "The Health Information Act, known as HIA, governs the collection, use, and disclosure of personal health information by custodians in Alberta."
+ },
+ {
+  "id": 306,
+  "domain": "access_and_security",
+  "front": "Which two Canadian provinces are commonly cited as examples of jurisdictions with their own dedicated health-specific privacy statutes, distinct from Ontario?",
+  "back": "Manitoba has the Personal Health Information Act and Saskatchewan has the Health Information Protection Act, each governing health information within that province."
+ },
+ {
+  "id": 307,
+  "domain": "access_and_security",
+  "front": "How does Quebec's approach to health information privacy differ structurally from Ontario's or Alberta's?",
+  "back": "Quebec has its own distinct legal framework, including a law specific to health and social services information, rather than relying on the federal PIPEDA default that applies in provinces without their own comprehensive health privacy legislation."
+ },
+ {
+  "id": 308,
+  "domain": "access_and_security",
+  "front": "Why must an HIM professional determine the province of a health record before applying a specific privacy rule?",
+  "back": "Because the governing privacy statute, the consent model, the retention rules, and the breach notification duties can all differ by province, so the correct legal framework depends on which jurisdiction's law actually applies to that custodian or record."
+ },
+ {
+  "id": 309,
+  "domain": "access_and_security",
+  "front": "What term describes the individual or organization legally accountable for personal health information under provincial health privacy laws?",
+  "back": "Many provincial statutes use a term such as health information custodian or trustee to describe the person or organization accountable for the collection, use, and disclosure of personal health information in their custody or control."
+ },
+ {
+  "id": 310,
+  "domain": "access_and_security",
+  "front": "Does PIPEDA apply to a hospital's clinical records in a province that has its own substantially similar health privacy law?",
+  "back": "Generally no. Once a province's health-specific legislation is recognized as substantially similar, it governs those records instead of PIPEDA, though PIPEDA can still apply to certain federally regulated activities."
+ },
+ {
+  "id": 311,
+  "domain": "access_and_security",
+  "front": "What is meant by the \"circle of care\" concept in Canadian health privacy law?",
+  "back": "The circle of care refers to the group of health care providers and support personnel directly involved in a patient's care who may rely on implied consent to share personal health information for the purpose of providing that care."
+ },
+ {
+  "id": 312,
+  "domain": "access_and_security",
+  "front": "Within the circle of care, what type of consent typically permits sharing information among directly involved providers?",
+  "back": "Implied consent typically applies, meaning the patient's consent to share information for care purposes is assumed from the circumstances of seeking treatment, rather than requiring an explicit signed authorization."
+ },
+ {
+  "id": 313,
+  "domain": "access_and_security",
+  "front": "When is express consent generally required instead of implied consent for health information disclosure?",
+  "back": "Express consent is generally required when information is disclosed outside the direct circle of care, such as to an employer, insurer, researcher, or another third party not involved in providing the patient's treatment."
+ },
+ {
+  "id": 314,
+  "domain": "access_and_security",
+  "front": "What is the practical difference between implied consent and express consent?",
+  "back": "Implied consent is inferred from the patient's actions and the context of seeking care and does not require a signature, while express consent must be clearly and affirmatively given, often in writing or verbally documented."
+ },
+ {
+  "id": 315,
+  "domain": "access_and_security",
+  "front": "Can a patient limit or withdraw the implied consent that applies within the circle of care?",
+  "back": "Yes, most provincial health privacy laws give patients a right to place a consent directive, sometimes called a lock-box, restricting which providers or which parts of their record can be accessed even within the circle of care."
+ },
+ {
+  "id": 316,
+  "domain": "access_and_security",
+  "front": "What happens when a patient exercises a lock-box or consent directive over part of their health record?",
+  "back": "The custodian must generally restrict access to the flagged information, and providers who are denied access due to a consent directive may be informed that information has been withheld without necessarily learning its content."
+ },
+ {
+  "id": 317,
+  "domain": "access_and_security",
+  "front": "Does implied consent within the circle of care extend automatically to disclosures for purposes such as marketing or research recruitment?",
+  "back": "No. Implied consent is limited to the purpose of providing care to the patient. Disclosures for unrelated purposes such as marketing or direct research recruitment generally require express consent or another lawful authority."
+ },
+ {
+  "id": 318,
+  "domain": "access_and_security",
+  "front": "Who typically falls outside the circle of care even though they may work in a health facility?",
+  "back": "Administrative staff, billing personnel, or other employees who are not directly involved in delivering a specific patient's care typically fall outside that patient's circle of care and should only access information on a need-to-know basis."
+ },
+ {
+  "id": 319,
+  "domain": "access_and_security",
+  "front": "What is the \"knowledgeable consent\" or \"informed consent\" requirement in the context of health information disclosure?",
+  "back": "Knowledgeable consent means the patient understands what information will be collected, used, or disclosed, why, and to whom, before that consent can be considered valid, whether the consent is implied or express."
+ },
+ {
+  "id": 320,
+  "domain": "access_and_security",
+  "front": "Can a substitute decision-maker provide consent for the collection, use, or disclosure of a patient's personal health information?",
+  "back": "Yes, where a patient lacks capacity to consent, provincial health privacy laws generally allow an authorized substitute decision-maker to provide or refuse consent on the patient's behalf."
+ },
+ {
+  "id": 321,
+  "domain": "access_and_security",
+  "front": "What is a freedom of information request in the context of health records?",
+  "back": "A freedom of information request is a formal request made under access-to-information or health privacy legislation asking a custodian to disclose records, often used by patients seeking their own personal health information."
+ },
+ {
+  "id": 322,
+  "domain": "access_and_security",
+  "front": "Under most provincial health privacy laws, does a patient generally have the right to access their own health record?",
+  "back": "Yes, individuals generally have a right of access to their own personal health information held by a custodian, subject to specific exceptions set out in the applicable legislation."
+ },
+ {
+  "id": 323,
+  "domain": "access_and_security",
+  "front": "Name one common exception that allows a custodian to deny or limit patient access to their own health record.",
+  "back": "A custodian may deny access if disclosure could reasonably be expected to result in a risk of serious harm to the patient's or another person's mental or physical health or safety."
+ },
+ {
+  "id": 324,
+  "domain": "access_and_security",
+  "front": "Can a custodian withhold a portion of a record while still granting access to the rest?",
+  "back": "Yes, severance is a common practice where a custodian redacts or withholds only the specific portion of a record that falls under a legitimate exception, while releasing the remainder to the requester."
+ },
+ {
+  "id": 325,
+  "domain": "access_and_security",
+  "front": "What is the general obligation on a custodian regarding the timeliness of responding to an access request?",
+  "back": "Provincial legislation typically requires custodians to respond to an access request within a defined statutory timeframe, and to notify the requester if an extension is needed and why."
+ },
+ {
+  "id": 326,
+  "domain": "access_and_security",
+  "front": "Besides access, what other right do most health privacy statutes give patients regarding the accuracy of their record?",
+  "back": "Patients generally have a right to request correction of their personal health information if they believe it is inaccurate or incomplete, and the custodian must respond to that correction request."
+ },
+ {
+  "id": 327,
+  "domain": "access_and_security",
+  "front": "If a custodian refuses to correct a record as requested, what alternative remedy is commonly available to the patient?",
+  "back": "The patient can typically require the custodian to attach a statement of disagreement to the record, noting the requested correction was made but the custodian declined to amend it."
+ },
+ {
+  "id": 328,
+  "domain": "access_and_security",
+  "front": "Can a custodian charge a fee for processing a patient's access request for their own health record?",
+  "back": "Many jurisdictions permit a reasonable fee for tasks such as photocopying, though some restrict or prohibit fees for the initial act of reviewing or accessing one's own record, depending on the applicable law."
+ },
+ {
+  "id": 329,
+  "domain": "access_and_security",
+  "front": "What independent body typically oversees compliance with a province's health privacy access rules?",
+  "back": "Most provinces designate an Information and Privacy Commissioner or equivalent independent office to review complaints, order production of records, and adjudicate disputes about access and disclosure."
+ },
+ {
+  "id": 330,
+  "domain": "access_and_security",
+  "front": "What recourse does a patient have if they believe an access request was wrongly denied?",
+  "back": "The patient can generally file a complaint with the applicable provincial Information and Privacy Commissioner, who has authority to investigate and, in many jurisdictions, order the custodian to disclose the record."
+ },
+ {
+  "id": 331,
+  "domain": "access_and_security",
+  "front": "Does an access request from a patient for their own record require them to explain why they want it?",
+  "back": "No, most health privacy legislation does not require a patient to justify or explain the reason for requesting access to their own personal health information."
+ },
+ {
+  "id": 332,
+  "domain": "access_and_security",
+  "front": "Can a parent generally access a minor's health record under provincial health privacy law?",
+  "back": "It depends on the child's capacity to consent to treatment. Where a minor is capable of consenting to their own care, the minor's own consent rights may limit or override a parent's automatic right of access."
+ },
+ {
+  "id": 333,
+  "domain": "access_and_security",
+  "front": "What is a privacy breach in the context of personal health information?",
+  "back": "A privacy breach occurs when personal health information is collected, used, disclosed, accessed, retained, or disposed of in a manner not authorized by the applicable privacy legislation."
+ },
+ {
+  "id": 334,
+  "domain": "access_and_security",
+  "front": "What is the threshold PIPEDA uses to trigger mandatory breach notification to the Privacy Commissioner of Canada and affected individuals?",
+  "back": "PIPEDA requires notification when a breach creates a real risk of significant harm to an individual, factoring in the sensitivity of the information and the probability it will be misused."
+ },
+ {
+  "id": 335,
+  "domain": "access_and_security",
+  "front": "Under PIPEDA, besides notifying affected individuals and the Privacy Commissioner, what other obligation applies to organizations after a breach involving a real risk of significant harm?",
+  "back": "Organizations must also keep and maintain a record of every breach of security safeguards, regardless of whether it met the threshold for notification, and provide those records to the Commissioner on request."
+ },
+ {
+  "id": 336,
+  "domain": "access_and_security",
+  "front": "Do provincial health-specific privacy laws generally have their own breach notification requirements separate from PIPEDA?",
+  "back": "Yes, provinces with their own health privacy legislation typically set out their own breach notification duties, which apply instead of PIPEDA's rules for custodians governed by that provincial statute."
+ },
+ {
+  "id": 337,
+  "domain": "access_and_security",
+  "front": "What is the general first step a custodian should take upon discovering a suspected privacy breach?",
+  "back": "The custodian should contain the breach immediately, such as by stopping unauthorized access or disclosure, before proceeding to assess the scope of the breach and determine notification obligations."
+ },
+ {
+  "id": 338,
+  "domain": "access_and_security",
+  "front": "Who, besides the affected individual, may a custodian be required to notify after certain serious health privacy breaches under some provincial laws?",
+  "back": "Some provincial health privacy statutes require notification of the applicable regulatory college or licensing body when a breach involves a regulated health professional, in addition to notifying the affected individual and the privacy commissioner."
+ },
+ {
+  "id": 339,
+  "domain": "access_and_security",
+  "front": "What is \"snooping\" in the health records context, and why is it treated as a privacy breach?",
+  "back": "Snooping is unauthorized access to a patient's health record by a person, often a staff member, who has no legitimate care-related reason to view it, and it is treated as a breach even if the information is never disclosed further."
+ },
+ {
+  "id": 340,
+  "domain": "access_and_security",
+  "front": "What information should generally be included when notifying an affected individual of a breach?",
+  "back": "Notification should generally describe what happened, what personal health information was involved, the steps taken to contain and address the breach, and what the individual can do to protect themselves."
+ },
+ {
+  "id": 341,
+  "domain": "access_and_security",
+  "front": "Why is documenting a breach response important even when notification to individuals is not legally required?",
+  "back": "Documentation demonstrates due diligence, supports regulatory audits, helps identify patterns that could indicate systemic security weaknesses, and may be required by the applicable privacy commissioner regardless of the notification threshold."
+ },
+ {
+  "id": 342,
+  "domain": "access_and_security",
+  "front": "What role does an organization's privacy officer play following a suspected breach?",
+  "back": "The privacy officer typically coordinates the breach investigation, determines the scope and cause, assesses whether notification thresholds are met, and ensures corrective measures are implemented."
+ },
+ {
+  "id": 343,
+  "domain": "access_and_security",
+  "front": "Can a breach involving paper records trigger the same notification obligations as an electronic breach?",
+  "back": "Yes, breach notification duties generally apply regardless of the record format, so lost or stolen paper charts can trigger the same assessment and notification requirements as a compromised electronic system."
+ },
+ {
+  "id": 344,
+  "domain": "access_and_security",
+  "front": "What is meant by \"mitigation\" in the context of responding to a health information breach?",
+  "back": "Mitigation refers to the steps taken to reduce the harm caused by a breach, such as recovering disclosed information, changing access credentials, or offering support to affected individuals."
+ },
+ {
+  "id": 345,
+  "domain": "access_and_security",
+  "front": "What is a key reason retention periods for health records are not identical across Canada?",
+  "back": "Retention periods vary because they are set by a combination of provincial health privacy legislation, professional regulatory college requirements, and organizational policy, which differ from one province and record type to another."
+ },
+ {
+  "id": 346,
+  "domain": "access_and_security",
+  "front": "Why do retention periods for a minor's health record often differ from those for an adult's record?",
+  "back": "Many jurisdictions extend the retention period for a minor's record to account for the time until the minor reaches the age of majority, since a limitation period for legal action may not begin until then."
+ },
+ {
+  "id": 347,
+  "domain": "access_and_security",
+  "front": "Name two factors, besides the patient's age, that can influence how long a health record must be retained.",
+  "back": "The type of record, such as a diagnostic image versus a general chart, and the applicable limitation period for civil action in that province can both influence the required retention period."
+ },
+ {
+  "id": 348,
+  "domain": "access_and_security",
+  "front": "What is meant by a \"retention schedule\" in health information management?",
+  "back": "A retention schedule is a documented policy specifying how long different categories of records must be kept before they are eligible for secure destruction, based on legal, regulatory, and operational requirements."
+ },
+ {
+  "id": 349,
+  "domain": "access_and_security",
+  "front": "What is the general principle for how personal health information should be disposed of once its retention period ends?",
+  "back": "Personal health information should be disposed of securely, using methods such as shredding for paper records or secure wiping for electronic media, so the information cannot be reconstructed or read."
+ },
+ {
+  "id": 350,
+  "domain": "access_and_security",
+  "front": "Why is a chain of custody or destruction log important when disposing of health records?",
+  "back": "It provides documented evidence of when, how, and by whom records were destroyed, which supports compliance with legal retention and disposal obligations and protects the custodian if disposal is later questioned."
+ },
+ {
+  "id": 351,
+  "domain": "access_and_security",
+  "front": "If an organization outsources record destruction to a third-party vendor, what remains the custodian's responsibility?",
+  "back": "The custodian remains accountable for ensuring the third-party vendor uses secure destruction methods and provides a certificate of destruction, since accountability for the information does not transfer away simply by outsourcing the task."
+ },
+ {
+  "id": 352,
+  "domain": "access_and_security",
+  "front": "Should a health record generally be destroyed immediately once the minimum retention period has passed?",
+  "back": "Not necessarily. Reaching the minimum retention period makes a record eligible for destruction, but an organization may choose to retain it longer, and should first confirm no legal hold, ongoing complaint, or litigation requires continued retention."
+ },
+ {
+  "id": 353,
+  "domain": "access_and_security",
+  "front": "What is a legal hold, and how does it affect a record's normal retention and disposal schedule?",
+  "back": "A legal hold is a directive to preserve records relevant to an anticipated or ongoing legal proceeding, complaint, or investigation, and it suspends normal destruction schedules for those specific records until the hold is lifted."
+ },
+ {
+  "id": 354,
+  "domain": "access_and_security",
+  "front": "What is the difference between archiving a record and disposing of it?",
+  "back": "Archiving moves a record to secure, less accessible long-term storage while preserving it intact, whereas disposal permanently and irreversibly destroys the record so it can no longer be retrieved."
+ },
+ {
+  "id": 355,
+  "domain": "access_and_security",
+  "front": "Name a common consequence for a custodian who fails to properly dispose of health records containing personal health information.",
+  "back": "Improper disposal, such as discarding intact paper charts in regular waste, can constitute a privacy breach, triggering the same investigation, notification, and regulatory consequences as any other unauthorized disclosure."
+ },
+ {
+  "id": 356,
+  "domain": "access_and_security",
+  "front": "What is a physical safeguard in the context of protecting health information?",
+  "back": "A physical safeguard is a measure that controls physical access to the location or media holding personal health information, such as locked filing cabinets, restricted-access record rooms, or facility badge access systems."
+ },
+ {
+  "id": 357,
+  "domain": "access_and_security",
+  "front": "Give an example of a physical safeguard used to protect paper-based health records.",
+  "back": "Storing paper charts in a locked room or locked cabinet accessible only to authorized staff, with sign-in logs for entry, is a common physical safeguard for paper-based health records."
+ },
+ {
+  "id": 358,
+  "domain": "access_and_security",
+  "front": "What is a technical safeguard, as distinguished from a physical or administrative safeguard?",
+  "back": "A technical safeguard is a technology-based control used to protect electronic personal health information, such as encryption, firewalls, access logging, and role-based user authentication."
+ },
+ {
+  "id": 359,
+  "domain": "access_and_security",
+  "front": "What is role-based access control, and why is it used with electronic health record systems?",
+  "back": "Role-based access control restricts a user's system access to only the information needed for their specific job function, reducing the risk of unauthorized viewing of personal health information beyond what is necessary."
+ },
+ {
+  "id": 360,
+  "domain": "access_and_security",
+  "front": "What is an audit log, and how does it support privacy protection in an electronic health record system?",
+  "back": "An audit log is a system-generated record of who accessed a specific record, when, and what action was taken, allowing organizations to detect and investigate unauthorized access such as snooping."
+ },
+ {
+  "id": 361,
+  "domain": "access_and_security",
+  "front": "Why is encryption considered an important technical safeguard for health information stored on portable devices?",
+  "back": "Encryption renders data unreadable without the proper decryption key, so if a laptop or portable drive containing health information is lost or stolen, the information itself remains protected from unauthorized access."
+ },
+ {
+  "id": 362,
+  "domain": "access_and_security",
+  "front": "What is an administrative safeguard, and how does it differ from a physical or technical safeguard?",
+  "back": "An administrative safeguard is an organizational policy or practice, such as staff privacy training, confidentiality agreements, and access authorization procedures, that governs how personnel manage personal health information, distinct from physical barriers or technology controls."
+ },
+ {
+  "id": 363,
+  "domain": "access_and_security",
+  "front": "Why do privacy laws generally require organizations to use a combination of physical, technical, and administrative safeguards rather than relying on just one type?",
+  "back": "A single category of safeguard cannot address every risk, since a strong technical control can still be undermined by an untrained employee or an unlocked door, so layered safeguards across all three categories provide more complete protection."
+ },
+ {
+  "id": 364,
+  "domain": "access_and_security",
+  "front": "What is the purpose of a confidentiality agreement signed by staff who handle health records?",
+  "back": "It formally documents that an employee understands and agrees to protect the confidentiality of personal health information and acknowledges the consequences of unauthorized access or disclosure."
+ },
+ {
+  "id": 365,
+  "domain": "access_and_security",
+  "front": "What safeguard principle applies to fax machines and email when transmitting personal health information?",
+  "back": "Custodians should confirm the correct recipient before transmission, use secure or encrypted channels where possible, and include a confidentiality notice, since misdirected faxes and emails are a recurring cause of privacy breaches."
+ },
+ {
+  "id": 366,
+  "domain": "access_and_security",
+  "front": "What is de-identification of health information?",
+  "back": "De-identification is the process of removing or altering direct and indirect identifiers from a data set so that the information can no longer reasonably be linked back to a specific individual."
+ },
+ {
+  "id": 367,
+  "domain": "access_and_security",
+  "front": "What is the difference between de-identification and anonymization?",
+  "back": "De-identification removes identifiers but may still carry a residual risk of re-identification, while anonymization is intended to permanently and irreversibly eliminate the possibility of linking the data back to an individual."
+ },
+ {
+  "id": 368,
+  "domain": "access_and_security",
+  "front": "Give two examples of direct identifiers that must typically be removed during de-identification of a health data set.",
+  "back": "Direct identifiers commonly removed include the patient's full name and their unique health insurance or medical record number."
+ },
+ {
+  "id": 369,
+  "domain": "access_and_security",
+  "front": "What is meant by \"re-identification risk\" in a de-identified health data set?",
+  "back": "Re-identification risk is the possibility that an individual could still be identified from a de-identified data set by combining remaining indirect identifiers, such as rare diagnosis combined with a small geographic area, with outside information."
+ },
+ {
+  "id": 370,
+  "domain": "access_and_security",
+  "front": "Why is de-identified or anonymized health information generally treated differently under privacy legislation than identifiable personal health information?",
+  "back": "Once information no longer reasonably identifies an individual, it typically falls outside the scope of consent-based privacy rules that apply to personal health information, allowing broader use for purposes such as research and planning, though custodians must still guard against re-identification risk."
+ },
+ {
+  "id": 371,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What federal law sets the conditions provinces and territories must meet to receive full federal health transfer funding?",
+  "back": "The Canada Health Act (1984). It establishes five program criteria plus conditions against extra-billing and user charges that each provincial and territorial health insurance plan must satisfy."
+ },
+ {
+  "id": 372,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Name the five principles of the Canada Health Act.",
+  "back": "Public administration, comprehensiveness, universality, portability, and accessibility."
+ },
+ {
+  "id": 373,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Define public administration under the Canada Health Act.",
+  "back": "Each provincial or territorial health insurance plan must be administered and operated on a non-profit basis by a public authority accountable to the provincial or territorial government."
+ },
+ {
+  "id": 374,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Define comprehensiveness under the Canada Health Act.",
+  "back": "The provincial or territorial health insurance plan must cover all medically necessary services provided by hospitals, medical practitioners, and dentists working within a hospital."
+ },
+ {
+  "id": 375,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Define universality under the Canada Health Act.",
+  "back": "All insured residents of a province or territory must be entitled to the insured health services on uniform terms and conditions."
+ },
+ {
+  "id": 376,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Define portability under the Canada Health Act.",
+  "back": "Insured residents remain covered for insured health services when they move to another province or territory, and while temporarily absent from their home province, territory, or the country, subject to reasonable waiting periods and limits."
+ },
+ {
+  "id": 377,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Define accessibility under the Canada Health Act.",
+  "back": "Insured persons must have reasonable access to insured health services on uniform terms, unprecluded or unimpeded, either directly or indirectly, by charges such as user fees or extra-billing."
+ },
+ {
+  "id": 378,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What happens if a province violates the Canada Health Act's conditions on extra-billing or user charges?",
+  "back": "The federal government can withhold or deduct an equivalent amount from that province's Canada Health Transfer payments."
+ },
+ {
+  "id": 379,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Under the Canada Health Act, what counts as an 'insured health service'?",
+  "back": "Medically necessary hospital services, physician services, and surgical-dental services provided in a hospital setting."
+ },
+ {
+  "id": 380,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What level of government has primary constitutional responsibility for delivering health care in Canada?",
+  "back": "The provincial and territorial governments. Under the Constitution Act, 1867, health care delivery falls largely under provincial jurisdiction, while the federal government's role centers on funding, standard-setting, and specific populations."
+ },
+ {
+  "id": 381,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Which populations does the federal government directly fund and deliver health services for?",
+  "back": "First Nations and Inuit communities, members of the Canadian Armed Forces, eligible veterans, and inmates in federal penitentiaries."
+ },
+ {
+  "id": 382,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the Canada Health Transfer (CHT)?",
+  "back": "The main federal cash transfer to provinces and territories supporting health care, allocated on an equal per-capita basis and conditional on compliance with the Canada Health Act."
+ },
+ {
+  "id": 383,
+  "domain": "the_health_care_system_in_canada",
+  "front": "How is the Canada Health Transfer allocated among provinces and territories?",
+  "back": "It is allocated on an equal per-capita cash basis, meaning every province and territory receives the same dollar amount per resident."
+ },
+ {
+  "id": 384,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What can happen to a province's Canada Health Transfer if it fails to meet the Canada Health Act's conditions?",
+  "back": "The federal government can apply a mandatory dollar-for-dollar deduction to that province's CHT payment for violations such as permitting extra-billing or user charges for insured services."
+ },
+ {
+  "id": 385,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Does the Canada Health Transfer fund the full cost of provincial health care?",
+  "back": "No. The CHT covers only a portion of provincial and territorial health spending; provinces and territories fund the majority of health care costs from their own general revenues."
+ },
+ {
+  "id": 386,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the continuum of care?",
+  "back": "The range of interconnected health services a person moves through as their needs change, spanning primary care, acute care, long-term care, home and community care, and public health, ideally connected so patients can move between settings as needed."
+ },
+ {
+  "id": 387,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Where does primary care sit in the continuum of care?",
+  "back": "Primary care is usually the first point of contact with the health care system, such as a family physician, nurse practitioner, or community health centre, and coordinates ongoing care and referrals."
+ },
+ {
+  "id": 388,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What distinguishes acute care from long-term care in the continuum of care?",
+  "back": "Acute care addresses short-term, urgent, or severe health conditions typically delivered in hospitals, while long-term care provides ongoing support for people with chronic conditions or disabilities who need extended assistance with daily living."
+ },
+ {
+  "id": 389,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is home and community care within the continuum of care?",
+  "back": "Health and support services delivered in a person's own home or community setting, such as nursing visits, personal support, and rehabilitation, allowing people to avoid or delay institutional care."
+ },
+ {
+  "id": 390,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is palliative care, and is it one of the continuum of care stages taught in this chapter?",
+  "back": "An approach focused on relieving suffering and improving quality of life for people with serious, life-limiting illness. It is a related concept in health care delivery, but it is not one of the five continuum of care components taught in this chapter (primary, acute, long-term, home and community, and public health)."
+ },
+ {
+  "id": 391,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is Health Canada's role in the Canadian health system?",
+  "back": "Health Canada is the federal department responsible for national health policy, regulation of drugs and medical devices, food safety, and administration of the Canada Health Act."
+ },
+ {
+  "id": 392,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the Public Health Agency of Canada (PHAC)?",
+  "back": "A federal agency, established in 2004, responsible for public health surveillance, emergency preparedness, infectious disease control, and chronic disease prevention across Canada."
+ },
+ {
+  "id": 393,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Why was the Public Health Agency of Canada created?",
+  "back": "PHAC was created in 2004, largely in response to lessons learned from the 2003 SARS outbreak, to strengthen national public health capacity and coordination."
+ },
+ {
+  "id": 394,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the Chief Public Health Officer of Canada?",
+  "back": "The lead public health professional for the federal government, who heads the Public Health Agency of Canada and provides advice on public health issues to the Minister of Health and to Canadians."
+ },
+ {
+  "id": 395,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the Canadian Institute for Health Information (CIHI)?",
+  "back": "An independent, not-for-profit organization that collects, analyzes, and reports standardized health data and information to support decision-making and improve the health system across Canada."
+ },
+ {
+  "id": 396,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What kinds of data does CIHI collect and manage?",
+  "back": "CIHI manages national databases and registries covering hospital discharge abstracts, national ambulatory care reporting, home care, long-term care, health human resources, and health expenditure data."
+ },
+ {
+  "id": 397,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the Discharge Abstract Database (DAD)?",
+  "back": "A CIHI database that collects standardized administrative, clinical, and demographic information on hospital discharges across most Canadian provinces and territories."
+ },
+ {
+  "id": 398,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the National Ambulatory Care Reporting System (NACRS)?",
+  "back": "A CIHI database that captures data on hospital-based and community-based ambulatory care, including emergency department visits, day surgery, and outpatient clinic visits."
+ },
+ {
+  "id": 399,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Who funds and governs CIHI?",
+  "back": "CIHI is funded jointly by Health Canada and provincial and territorial governments, and is governed by an independent Board of Directors representing federal, provincial, and territorial interests."
+ },
+ {
+  "id": 400,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is Accreditation Canada?",
+  "back": "A not-for-profit organization that provides voluntary external accreditation to health and social service organizations across Canada, assessing them against national standards of quality and safety."
+ },
+ {
+  "id": 401,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the purpose of Accreditation Canada's Qmentum program?",
+  "back": "Qmentum is Accreditation Canada's accreditation program that uses standards, surveys, and performance measures to help health organizations continuously improve quality and patient safety."
+ },
+ {
+  "id": 402,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Is accreditation by Accreditation Canada mandatory?",
+  "back": "No, accreditation is voluntary in most jurisdictions, though many funders, regulators, and health authorities require or strongly expect it as a condition of funding or licensure."
+ },
+ {
+  "id": 403,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What does 'health human resources' (HHR) refer to?",
+  "back": "The planning, supply, distribution, and management of the health workforce, including physicians, nurses, allied health professionals, and HIM professionals, needed to deliver health services effectively."
+ },
+ {
+  "id": 404,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is a common challenge in Canadian health human resources planning?",
+  "back": "Uneven distribution of health professionals between urban and rural or remote areas, resulting in workforce shortages that affect access to care in many regions."
+ },
+ {
+  "id": 405,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is a global budget as a hospital funding model?",
+  "back": "A funding approach where a hospital or health facility receives a fixed, predetermined total amount of money for a defined period, regardless of the volume or mix of services delivered."
+ },
+ {
+  "id": 406,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is a key drawback often cited for global budget funding?",
+  "back": "It gives facilities limited financial incentive to increase patient volume or efficiency, since funding does not vary directly with the number of patients treated or services provided."
+ },
+ {
+  "id": 407,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is activity-based funding (ABF)?",
+  "back": "A funding model where hospitals are paid based on the volume and type of patients they actually treat, rather than receiving a fixed global budget."
+ },
+ {
+  "id": 408,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the main goal of activity-based funding compared to global budgets?",
+  "back": "To link hospital funding more directly to patient activity, creating incentives to increase efficiency, reduce wait times, and treat more patients."
+ },
+ {
+  "id": 409,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is case-mix funding?",
+  "back": "A funding method that adjusts payment to a hospital based on the complexity and resource intensity of the specific mix of patients it treats, often using grouping systems built on coded diagnosis and procedure data."
+ },
+ {
+  "id": 410,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Why is coded clinical data essential to case-mix funding models?",
+  "back": "Case-mix funding relies on accurately coded diagnosis, procedure, and severity data to classify patients into resource-intensity groups, which directly determines how much funding a facility receives for treating them."
+ },
+ {
+  "id": 411,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What HIM function directly supports case-mix and activity-based funding accuracy?",
+  "back": "Clinical coding and abstracting, since the accuracy and completeness of coded health record data determines patient grouping and the resulting funding a facility receives."
+ },
+ {
+  "id": 412,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What does 'medically necessary' mean in the context of the Canada Health Act?",
+  "back": "A service that is required for diagnosis or treatment of illness or injury; the term is not precisely defined in the Act itself, leaving provinces discretion over what services are insured."
+ },
+ {
+  "id": 413,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Are dental and vision care fully covered under the Canada Health Act's insured services?",
+  "back": "No. Routine dental and vision care are generally not insured services under the Canada Health Act, since the Act covers hospital and medical practitioner services and only dental-surgical services performed in hospital."
+ },
+ {
+  "id": 414,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Are prescription drugs outside hospital covered under the Canada Health Act?",
+  "back": "No. Outpatient prescription drug coverage is not an insured service under the Canada Health Act; it is managed through separate provincial, territorial, and private drug plans."
+ },
+ {
+  "id": 415,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is Medicare in the Canadian context?",
+  "back": "The common name for Canada's publicly funded health insurance system, made up of 13 interlocking provincial and territorial health insurance plans operating under the principles of the Canada Health Act."
+ },
+ {
+  "id": 416,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Why is the Canadian health system often described as 'single-payer' at the provincial level?",
+  "back": "In each province or territory, one public plan pays for medically necessary hospital and physician services, rather than multiple competing private insurers paying for the same core services."
+ },
+ {
+  "id": 417,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What role does private insurance play in the Canadian health system?",
+  "back": "Private insurance typically covers services not insured under provincial plans, such as prescription drugs outside hospital, dental care, vision care, and semi-private hospital rooms."
+ },
+ {
+  "id": 418,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is an example of extra-billing prohibited under the Canada Health Act?",
+  "back": "A physician charging an insured patient an additional fee, on top of what the provincial health plan pays, for an insured physician service."
+ },
+ {
+  "id": 419,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the Health Canada program that funds and coordinates health services for First Nations and Inuit populations?",
+  "back": "The First Nations and Inuit Health Branch (FNIHB), which supports community health programs, home and community care, and non-insured health benefits for eligible populations."
+ },
+ {
+  "id": 420,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What are Non-Insured Health Benefits (NIHB)?",
+  "back": "A federal program that provides eligible First Nations and Inuit clients with coverage for a specified range of health benefits, such as prescription drugs, dental, and vision care, not covered by provincial or territorial plans or other private insurance."
+ },
+ {
+  "id": 421,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What does the term 'regionalization' mean in the Canadian health system?",
+  "back": "The organizational structure in most provinces where health service delivery and planning are managed through regional health authorities rather than by individual, independently governed facilities."
+ },
+ {
+  "id": 422,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is a regional health authority (RHA)?",
+  "back": "A governance and management body responsible for planning, funding, and delivering health services, often including hospitals, long-term care, and community services, within a defined geographic region of a province."
+ },
+ {
+  "id": 423,
+  "domain": "the_health_care_system_in_canada",
+  "front": "How does health care funding responsibility differ from health care delivery responsibility in Canada?",
+  "back": "The federal government contributes to funding through cash transfers like the Canada Health Transfer and sets national conditions, while provinces and territories hold the primary responsibility for organizing and delivering health services."
+ },
+ {
+  "id": 424,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the role of provincial and territorial ministries of health?",
+  "back": "They plan, fund, regulate, and oversee the delivery of health services within their jurisdiction, including hospitals, physician services, regional health authorities, and provincial health insurance plans."
+ },
+ {
+  "id": 425,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What CIHI product tracks national trends in health spending?",
+  "back": "The National Health Expenditure Trends report, an annual CIHI publication estimating total health spending in Canada by source of funding, use of funds, and province or territory."
+ },
+ {
+  "id": 426,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the difference between comprehensiveness and universality under the Canada Health Act?",
+  "back": "Comprehensiveness concerns what services must be covered, while universality concerns who must be covered; together they require all insured residents to have coverage for all medically necessary hospital and physician services."
+ },
+ {
+  "id": 427,
+  "domain": "the_health_care_system_in_canada",
+  "front": "How does portability apply when a Canadian resident is temporarily working or studying in another province?",
+  "back": "Their home province's health plan continues to cover insured services during the temporary absence, subject to reasonable time limits set by that province, so they are not left without coverage."
+ },
+ {
+  "id": 428,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What is the difference between global budget funding and activity-based funding in terms of financial risk?",
+  "back": "Under a global budget, the facility bears the risk if patient volumes exceed the fixed funding; under activity-based funding, the funder's costs rise directly with the volume of patients actually treated."
+ },
+ {
+  "id": 429,
+  "domain": "the_health_care_system_in_canada",
+  "front": "Why do HIM professionals need to understand the Canada Health Act's principles?",
+  "back": "Because coding, abstracting, and health information practices support compliance reporting, funding models, and system-level data that depend on services being correctly classified as insured or non-insured under the Act's criteria."
+ },
+ {
+  "id": 430,
+  "domain": "the_health_care_system_in_canada",
+  "front": "What broad term describes the mix of federal, provincial, territorial, and non-governmental organizations that together plan, fund, regulate, and deliver health services in Canada?",
+  "back": "The Canadian health care system, a decentralized, publicly funded structure built on 13 provincial and territorial insurance plans operating under the shared national framework of the Canada Health Act."
+ },
+ {
+  "id": 431,
+  "domain": "ethics_and_practice",
+  "front": "What is professional ethics in the context of health information management?",
+  "back": "A set of principles and standards that guide an HIM professional's conduct, judgment, and decisions when handling health information and interacting with patients, colleagues, and employers."
+ },
+ {
+  "id": 432,
+  "domain": "ethics_and_practice",
+  "front": "Define confidentiality as an HIM ethical principle.",
+  "back": "The obligation to protect personal health information from unauthorized access, use, or disclosure, sharing it only with those who have a legitimate need and proper authority to see it."
+ },
+ {
+  "id": 433,
+  "domain": "ethics_and_practice",
+  "front": "How does confidentiality differ from privacy?",
+  "back": "Privacy is an individual's right to control access to their own personal information, while confidentiality is the professional duty of those entrusted with that information to protect it from improper disclosure."
+ },
+ {
+  "id": 434,
+  "domain": "ethics_and_practice",
+  "front": "What does integrity mean for an HIM professional?",
+  "back": "Consistently acting honestly and truthfully, especially when documenting, coding, or reporting health information, even when no one is directly checking the work."
+ },
+ {
+  "id": 435,
+  "domain": "ethics_and_practice",
+  "front": "What does accountability mean in HIM practice?",
+  "back": "Taking ownership of one's own decisions and actions, including admitting and correcting errors, and being answerable to employers, regulators, and the public for professional conduct."
+ },
+ {
+  "id": 436,
+  "domain": "ethics_and_practice",
+  "front": "What is professional competence?",
+  "back": "Having and maintaining the current knowledge, skills, and judgment needed to perform HIM duties accurately and safely, and recognizing the limits of one's own expertise."
+ },
+ {
+  "id": 437,
+  "domain": "ethics_and_practice",
+  "front": "Why is competence considered an ongoing ethical duty rather than a one-time achievement?",
+  "back": "Because health information practices, technology, and regulations change constantly, so an HIM professional must keep learning to remain safe and effective throughout their career."
+ },
+ {
+  "id": 438,
+  "domain": "ethics_and_practice",
+  "front": "What is a conflict of interest in HIM practice?",
+  "back": "A situation where an HIM professional's personal interests, relationships, or outside activities could improperly influence their professional judgment or duties."
+ },
+ {
+  "id": 439,
+  "domain": "ethics_and_practice",
+  "front": "What is the general ethical expectation when a conflict of interest arises?",
+  "back": "The professional should disclose the conflict to the appropriate party and, where possible, remove themselves from decisions where their objectivity could be compromised."
+ },
+ {
+  "id": 440,
+  "domain": "ethics_and_practice",
+  "front": "What is the general purpose of CHIMA's Code of Ethics?",
+  "back": "It provides a shared framework of professional values and expected conduct that guides HIM professionals in Canada in making sound, ethical decisions in their daily work."
+ },
+ {
+  "id": 441,
+  "domain": "ethics_and_practice",
+  "front": "Name a core theme found in most HIM codes of ethics regarding patient information.",
+  "back": "Protecting the confidentiality, privacy, and security of patient health information at all times."
+ },
+ {
+  "id": 442,
+  "domain": "ethics_and_practice",
+  "front": "Name a core theme in HIM codes of ethics regarding data quality.",
+  "back": "Promoting and supporting accurate, complete, and reliable health information and data practices."
+ },
+ {
+  "id": 443,
+  "domain": "ethics_and_practice",
+  "front": "Name a core theme in HIM codes of ethics regarding professional development.",
+  "back": "Committing to lifelong learning and maintaining current knowledge and skills throughout one's career."
+ },
+ {
+  "id": 444,
+  "domain": "ethics_and_practice",
+  "front": "Name a core theme in HIM codes of ethics regarding conflicts of interest.",
+  "back": "Avoiding conflicts of interest and maintaining objectivity in professional decisions, disclosing any situation where personal interest could improperly influence judgment."
+ },
+ {
+  "id": 445,
+  "domain": "ethics_and_practice",
+  "front": "Beyond the code's four core themes, what professional behaviour does HIM ethics expect toward colleagues?",
+  "back": "Treating coworkers and other professionals with honesty, fairness, and respect, and fostering collaborative professional relationships, a professionalism expectation that supports the code's four core themes without being one of them."
+ },
+ {
+  "id": 446,
+  "domain": "ethics_and_practice",
+  "front": "Why do professional codes of ethics matter beyond legal requirements?",
+  "back": "Laws set the minimum standard of conduct, while a code of ethics reflects the profession's own higher standards of trustworthy, principled behaviour that the public relies on."
+ },
+ {
+  "id": 447,
+  "domain": "ethics_and_practice",
+  "front": "What is meant by scope of practice for an HIM professional?",
+  "back": "The specific range of duties, responsibilities, and activities that an HIM professional is qualified, authorized, and expected to perform based on their training and role."
+ },
+ {
+  "id": 448,
+  "domain": "ethics_and_practice",
+  "front": "Why is it important for an HIM professional to stay within their scope of practice?",
+  "back": "Working outside one's scope risks patient safety, data integrity, and legal liability, and undermines the trust placed in the HIM profession."
+ },
+ {
+  "id": 449,
+  "domain": "ethics_and_practice",
+  "front": "What should an HIM professional do if asked to perform a task outside their competence or authority?",
+  "back": "Decline or seek guidance, clarify their limitations to the requester, and refer the task to someone properly qualified or authorized."
+ },
+ {
+  "id": 450,
+  "domain": "ethics_and_practice",
+  "front": "How does scope of practice relate to accountability?",
+  "back": "Staying within scope of practice helps ensure that when something goes wrong, responsibility can be clearly and fairly traced, since the professional was acting within their proper role."
+ },
+ {
+  "id": 451,
+  "domain": "ethics_and_practice",
+  "front": "Define upcoding.",
+  "back": "The unethical and often fraudulent practice of assigning a diagnosis or procedure code that reflects a higher level of severity, complexity, or resource use than what is actually documented or supported by the record."
+ },
+ {
+  "id": 452,
+  "domain": "ethics_and_practice",
+  "front": "Why is upcoding an ethical violation for a coder?",
+  "back": "It misrepresents the patient's actual condition or care, can result in improper reimbursement, and breaches the coder's duty of accuracy and integrity."
+ },
+ {
+  "id": 453,
+  "domain": "ethics_and_practice",
+  "front": "Define unbundling in coding ethics.",
+  "back": "The improper practice of separately coding and billing components of a procedure that should be reported together under a single comprehensive code, in order to increase reimbursement."
+ },
+ {
+  "id": 454,
+  "domain": "ethics_and_practice",
+  "front": "What is the ethical coding principle that opposes both upcoding and unbundling?",
+  "back": "Codes should always be assigned based strictly on what is documented in the health record, reflecting the true clinical picture rather than financial incentive."
+ },
+ {
+  "id": 455,
+  "domain": "ethics_and_practice",
+  "front": "What should a coder do if pressured by a supervisor or physician to assign a code not supported by documentation?",
+  "back": "Respectfully decline, explain the documentation requirement, and escalate through appropriate channels such as a coding supervisor, compliance officer, or manager if the pressure continues."
+ },
+ {
+  "id": 456,
+  "domain": "ethics_and_practice",
+  "front": "What is downcoding, and is it also an ethical concern?",
+  "back": "Downcoding is assigning a code that understates the severity or complexity of a condition or procedure compared to what is documented; like upcoding, it misrepresents the record and is an ethical and data-quality concern."
+ },
+ {
+  "id": 457,
+  "domain": "ethics_and_practice",
+  "front": "What is a query in coding practice, and how does it support ethical coding?",
+  "back": "A query is a formal request to a physician or clinician for clarification of ambiguous, incomplete, or conflicting documentation, helping ensure codes are based on accurate and complete information rather than assumption."
+ },
+ {
+  "id": 458,
+  "domain": "ethics_and_practice",
+  "front": "What is a leading query, and why is it problematic?",
+  "back": "A leading query suggests a specific diagnosis or answer to the clinician rather than presenting options objectively, which can improperly influence documentation and compromise coding integrity."
+ },
+ {
+  "id": 459,
+  "domain": "ethics_and_practice",
+  "front": "What is the ethical risk of coding solely to maximize facility revenue?",
+  "back": "It can lead to fraudulent billing, regulatory penalties, loss of professional credibility, and harm to the credibility of the health record itself."
+ },
+ {
+  "id": 460,
+  "domain": "ethics_and_practice",
+  "front": "What is a compliance program in a healthcare organization's coding department?",
+  "back": "A structured set of policies, training, and monitoring processes designed to detect and prevent coding and billing errors or fraud, and to support ethical practice."
+ },
+ {
+  "id": 461,
+  "domain": "ethics_and_practice",
+  "front": "What is the minimum necessary principle in releasing health information?",
+  "back": "Only the minimum amount of personal health information needed to fulfill a specific, legitimate purpose should be accessed, used, or disclosed."
+ },
+ {
+  "id": 462,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical dilemma an HIM professional may face when a family member requests a patient's records?",
+  "back": "Balancing compassion for the family with the legal and ethical duty to confirm proper authorization or consent before releasing any personal health information, even to close relatives."
+ },
+ {
+  "id": 463,
+  "domain": "ethics_and_practice",
+  "front": "What should an HIM professional do if a request for records appears improperly authorized?",
+  "back": "Decline to release the information until proper consent or legal authority is verified, and follow the organization's policy for handling questionable requests."
+ },
+ {
+  "id": 464,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical concern with releasing records to law enforcement without a warrant or clear legal authority?",
+  "back": "Doing so may violate the patient's privacy rights and applicable law, so release should only occur when a valid legal basis, such as a court order, warrant, or specific statutory exception, is confirmed."
+ },
+ {
+  "id": 465,
+  "domain": "ethics_and_practice",
+  "front": "What ethical duty applies when a patient's record contains sensitive information, such as mental health or substance use details?",
+  "back": "Extra care and discretion must be applied, as such information may carry additional legal protections and greater potential for harm if improperly disclosed."
+ },
+ {
+  "id": 466,
+  "domain": "ethics_and_practice",
+  "front": "What should an HIM professional do if they witness a colleague accessing a record without a legitimate reason?",
+  "back": "Report the incident through the appropriate internal channel, such as a supervisor, privacy officer, or compliance process, since unauthorized access is a breach of confidentiality even if no information is further disclosed."
+ },
+ {
+  "id": 467,
+  "domain": "ethics_and_practice",
+  "front": "What is snooping in the HIM context?",
+  "back": "Accessing a patient's health record out of personal curiosity or for a reason unrelated to one's job duties, without a legitimate need to know."
+ },
+ {
+  "id": 468,
+  "domain": "ethics_and_practice",
+  "front": "Why is snooping considered a serious ethical and privacy violation even when the information is not shared further?",
+  "back": "The act of unauthorized access itself breaches the patient's trust and privacy rights, regardless of whether the information is disclosed to anyone else."
+ },
+ {
+  "id": 469,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical consideration when releasing information for research purposes?",
+  "back": "Ensuring proper research ethics board approval and patient consent or an approved waiver exist, and that data is de-identified or limited appropriately to protect privacy."
+ },
+ {
+  "id": 470,
+  "domain": "ethics_and_practice",
+  "front": "What is de-identification, and why does it matter ethically for data release?",
+  "back": "De-identification is the removal or alteration of information that could identify an individual; it allows health data to be used for research, planning, or analysis while protecting patient privacy."
+ },
+ {
+  "id": 471,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical concern when disclosing information to an insurer?",
+  "back": "Ensuring the patient has provided valid, informed consent for the specific disclosure, and that only the information relevant to the insurer's legitimate purpose is released."
+ },
+ {
+  "id": 472,
+  "domain": "ethics_and_practice",
+  "front": "What should guide an HIM professional when facing a novel data-release situation not clearly covered by policy?",
+  "back": "They should apply the underlying ethical principles of privacy, minimum necessary disclosure, and patient trust, and consult a supervisor or privacy officer before proceeding."
+ },
+ {
+  "id": 473,
+  "domain": "ethics_and_practice",
+  "front": "What is continuing professional education (CPE)?",
+  "back": "Ongoing learning activities that HIM professionals undertake after certification to maintain and expand their knowledge and skills throughout their career."
+ },
+ {
+  "id": 474,
+  "domain": "ethics_and_practice",
+  "front": "Why do certifying bodies typically require CPE for maintaining certification?",
+  "back": "To ensure certified professionals stay current with evolving standards, technology, regulations, and best practices, protecting the credibility of the credential and the safety of health information practices."
+ },
+ {
+  "id": 475,
+  "domain": "ethics_and_practice",
+  "front": "What kinds of activities commonly count toward CPE requirements?",
+  "back": "Attending workshops, conferences, and webinars, completing relevant coursework, participating in professional association activities, and other structured learning directly related to HIM practice."
+ },
+ {
+  "id": 476,
+  "domain": "ethics_and_practice",
+  "front": "What is the ethical responsibility tied to documenting CPE activities?",
+  "back": "Accurately and honestly recording completed CPE hours and activities, since falsifying records to meet certification requirements is a breach of professional integrity."
+ },
+ {
+  "id": 477,
+  "domain": "ethics_and_practice",
+  "front": "Why is CPE considered an ethical obligation rather than just an administrative requirement?",
+  "back": "Because practicing with outdated knowledge can lead to errors that affect patient care, data quality, and organizational compliance, so staying current is part of the duty to competence."
+ },
+ {
+  "id": 478,
+  "domain": "ethics_and_practice",
+  "front": "What happens if a certified HIM professional fails to meet CPE requirements?",
+  "back": "They may face consequences ranging from a probationary period to suspension or loss of certification, depending on the certifying body's policies."
+ },
+ {
+  "id": 479,
+  "domain": "ethics_and_practice",
+  "front": "How does self-directed learning fit into CPE obligations?",
+  "back": "Many certifying bodies allow structured self-study, reading, or independent research relevant to HIM practice to count toward CPE, provided it is documented appropriately."
+ },
+ {
+  "id": 480,
+  "domain": "ethics_and_practice",
+  "front": "What is the relationship between CPE and adapting to new technology in HIM?",
+  "back": "As electronic health record systems, coding classifications, and privacy regulations evolve, CPE helps professionals build the updated skills needed to work safely and effectively with new tools and rules."
+ },
+ {
+  "id": 481,
+  "domain": "ethics_and_practice",
+  "front": "What is whistleblowing in a healthcare or HIM context?",
+  "back": "Reporting suspected unethical, unsafe, or illegal practices, such as fraud or privacy breaches, to appropriate internal or external authorities."
+ },
+ {
+  "id": 482,
+  "domain": "ethics_and_practice",
+  "front": "Why might an HIM professional feel conflicted about whistleblowing?",
+  "back": "Loyalty to colleagues or fear of workplace retaliation can create tension with the professional's ethical duty to protect patients, data integrity, and the public interest."
+ },
+ {
+  "id": 483,
+  "domain": "ethics_and_practice",
+  "front": "What is the general ethical priority when personal loyalty conflicts with patient safety or data integrity?",
+  "back": "The duty to protect patients and the accuracy and security of health information takes priority over personal or workplace loyalty."
+ },
+ {
+  "id": 484,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical breach related to falsifying documentation?",
+  "back": "Altering, backdating, or fabricating entries in a health record to misrepresent what actually occurred, which undermines both patient safety and the legal integrity of the record."
+ },
+ {
+  "id": 485,
+  "domain": "ethics_and_practice",
+  "front": "What is the correct way to make a late entry or correction in a health record?",
+  "back": "The original entry should remain visible and unaltered, and any correction or addition should be clearly dated, timed, and identified as a late entry or amendment, following organizational policy."
+ },
+ {
+  "id": 486,
+  "domain": "ethics_and_practice",
+  "front": "What ethical issue arises when an HIM professional shares login credentials with a coworker?",
+  "back": "Sharing credentials undermines accountability, since access and actions in a system can no longer be reliably traced to the individual responsible, and it violates confidentiality and security policy."
+ },
+ {
+  "id": 487,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical concern about discussing patient information in public or informal settings?",
+  "back": "Even without naming a patient, discussing identifiable details in hallways, elevators, or social settings risks accidental disclosure and breaches the duty of confidentiality."
+ },
+ {
+  "id": 488,
+  "domain": "ethics_and_practice",
+  "front": "What is the ethical concern with posting about work experiences on social media?",
+  "back": "Sharing details about patients, cases, or workplace incidents, even without names, can risk violating confidentiality and damage public trust in the profession."
+ },
+ {
+  "id": 489,
+  "domain": "ethics_and_practice",
+  "front": "What is professional courtesy, and how does it relate to ethics in HIM?",
+  "back": "Treating colleagues, patients, and other stakeholders with respect and fairness, which supports a collaborative and trustworthy work environment consistent with professional ethical standards."
+ },
+ {
+  "id": 490,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical concern with accepting gifts or incentives tied to coding or billing decisions?",
+  "back": "Accepting gifts or incentives that could influence coding, billing, or data-handling decisions creates a conflict of interest and compromises professional objectivity."
+ },
+ {
+  "id": 491,
+  "domain": "ethics_and_practice",
+  "front": "How should an HIM professional respond to a request to backdate a document?",
+  "back": "They should refuse, since backdating misrepresents when the entry was actually made and compromises the integrity and legal reliability of the record."
+ },
+ {
+  "id": 492,
+  "domain": "ethics_and_practice",
+  "front": "What is the ethical significance of accuracy in abstracting data for statistical reporting?",
+  "back": "Inaccurate abstracting can distort hospital statistics, funding decisions, research, and public health data, so precision and honesty in this task carry broad downstream impact."
+ },
+ {
+  "id": 493,
+  "domain": "ethics_and_practice",
+  "front": "What role does objectivity play in ethical HIM decision-making?",
+  "back": "Objectivity means basing decisions on facts, documentation, and established standards rather than personal bias, relationships, or external pressure."
+ },
+ {
+  "id": 494,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical responsibility HIM professionals have toward vulnerable populations?",
+  "back": "Exercising extra care and sensitivity when handling records involving children, individuals with mental health conditions, or other vulnerable groups, given the heightened risk of harm from improper disclosure."
+ },
+ {
+  "id": 495,
+  "domain": "ethics_and_practice",
+  "front": "What is the ethical basis for an audit trail in an electronic health record system?",
+  "back": "It creates accountability by recording who accessed or modified a record and when, supporting the detection of inappropriate access and reinforcing the trustworthiness of the system."
+ },
+ {
+  "id": 496,
+  "domain": "ethics_and_practice",
+  "front": "Why is it unethical to access one's own health record or a family member's record through a workplace system outside of an authorized process?",
+  "back": "Even with a legitimate personal interest, using professional access privileges outside approved channels breaches confidentiality policy and can compromise both privacy and system accountability."
+ },
+ {
+  "id": 497,
+  "domain": "ethics_and_practice",
+  "front": "What is the ethical purpose of privacy breach reporting procedures?",
+  "back": "They ensure breaches are identified, contained, and addressed promptly, allowing affected individuals to be notified as required and helping prevent future incidents."
+ },
+ {
+  "id": 498,
+  "domain": "ethics_and_practice",
+  "front": "What is an ethical consideration when using de-identified or aggregate data for quality improvement projects?",
+  "back": "Even when data is de-identified, professionals should ensure the data set is used only for its intended purpose and handled with the same care and security as identifiable information."
+ },
+ {
+  "id": 499,
+  "domain": "ethics_and_practice",
+  "front": "How does the concept of stewardship apply to an HIM professional's ethical role?",
+  "back": "HIM professionals act as stewards of health information, meaning they hold a position of trust to protect, manage, and ensure the appropriate use of data on behalf of patients and the organization, not as owners of that information."
+ },
+ {
+  "id": 500,
+  "domain": "ethics_and_practice",
+  "front": "What is the overall goal that unites confidentiality, integrity, accountability, competence, and CPE as ethical duties in HIM practice?",
+  "back": "Maintaining public trust in the health information system by ensuring that patient data is protected, accurate, and handled by knowledgeable professionals who are answerable for their actions."
+ }
+]
